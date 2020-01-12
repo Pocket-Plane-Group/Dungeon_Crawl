@@ -1,5 +1,5 @@
 			Dungeon Crawl MOD for Baldur's Gate II
-				   Version 11
+				   Version 12
 			  A Pocket Plane Group Project
 			   http://www.pocketplane.net
 
@@ -183,6 +183,10 @@ winLAME					http://winlame.sourceforge.net
 -------------------
 5. Version History
 -------------------
+
+Version 12
+-updated dc.ini with the GitHub address for download
+-added folder libiconv-1.9.2-1-src.zip with iconv licence info
 
 Version 11
 - EET compatibility (by k4thos)

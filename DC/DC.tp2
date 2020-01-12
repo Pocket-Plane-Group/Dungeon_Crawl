@@ -1,6 +1,6 @@
 BACKUP ~DC\Backup~
 AUTHOR ~http://forums.pocketplane.net~
-VERSION ~v11~
+VERSION ~v12~
 
 README ~DC/%LANGUAGE%/Readme-DC.txt~ ~DC/Readme-DC.txt~ 
 
