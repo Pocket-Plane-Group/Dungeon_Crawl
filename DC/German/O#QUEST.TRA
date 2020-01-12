@@ -1,0 +1,1369 @@
+@0    = ~Ich grüsse Euch, tapferer Abenteurer. Ich würde gerne wissen, ob Ihr mir und meinen Gefährten vielleicht helfen könntet.~ [O#DCDur1]
+ ~Ich grüsse Euch, tapfere Abenteurerin. Ich würde gerne wissen, ob Ihr mir und meinen Gefährten vielleicht helfen könntet.~ [O#DCDur1]
+
+@1    = ~Wenn jemand meine Hilfe benötigt, dann helfe ich gerne.~
+
+@2    = ~Und was ist es Euch wert?~
+
+@3    = ~Moment mal, ich kenne Euch! Seid Ihr nicht Durnkrag? Und der da drüben ist Arudin...~
+
+@4    = ~Im Moment bin ich sehr beschäftigt. Vielleicht später.~
+
+@5    = ~Lord Thaddeus Leoncourt aus Baldurs Tor wurde ein Gegenstand aus seinem Eigentum gestohlen. Er hat nicht gesagt, was ihm gestohlen wurde, aber es muss etwas von grossem Wert sein, da er eine hohe Belohnung für die Wiederbeschaffung ausgesetzt hat.~ [O#DCDur2]
+
+@6    = ~Wir verfolgten den Schuldigen bis nach Amn, doch dann verlor sich seine Spur. Wir wissen, dass er ein Schattendieb war und das Diebesgut an einen der ansässigen Hehler übergeben sollte. Doch leider konnten wir nicht mehr erfahren, da die Schattendiebe nicht gerne Fragen beantworten und wir keinerlei Möglichkeiten haben, mit ihnen in Kontakt zu treten.~
+
+@7    = ~Mit Ausnahme von Castor hier, aber aus irgendeinem Grund kommt er nicht einmal in ihre Nähe.~
+
+@8    = ~Fragt nicht.~
+
+@9    = ~Schattendiebe? Das gefällt mir nicht, <CHARNAME>.~
+
+@10   = ~Ein Dieb muss der Gerechtigkeit überstellt werden! Eine ehrenvolle Aufgabe, mein Freund.~
+
+@11   = ~Ja, genau. Warum haben wir nicht gleich daran gedacht? Arsch.~
+
+@12   = ~Was habt Ihr da eben gesagt?~
+
+@13   = ~Ich? Nichts weiter.~
+
+@14   = ~Dann bittet Ihr uns also um unsere Hilfe?~
+
+@15   = ~N-Natürlich werden wir Euch helfen! Das werden wir doch, <CHARNAME>?~
+
+@16   = ~Wir können Abenteurern in Not helfen und den bösen Dieben einen Tritt in den Hintern geben!~
+
+@17   = ~Ja, ja. Ich kann mir vorstellen, dass Ihr und Khaggoth hier gut miteinander auskommen werdet.~
+
+@18   = ~Wie?~
+
+@19   = ~Genau das, was ich gemeint habe.~
+
+@20   = ~Leider kennen wir nur den Namen des Hehlers: Grudin. Er hält sich wahrscheinlich im Hafen oder in den Slums auf, aber wir haben Schwierigkeiten, ihn ausfindig zu machen. Wenn Ihr diesen Mann für uns finden könntet und uns bei der Suche nach dem Eigentum von Lord Leoncourt helft, werden wir die Belohnung mit Euch redlich teilen. Aber zuerst müsst Ihr Grudin finden. Kommt wieder hierher, wenn Ihr etwas Neues wisst.~
+
+@21   = ~Abgemacht. Habt Ihr eine Ahnung, wo wir mit der Suche nach diesem Mann beginnen sollen?~
+
+@22   = ~Ich habe Besseres zu tun, als die Slums zu durchsuchen.~
+
+@23   = ~Ich werde es mir überlegen.~
+
+@24   = ~Ganz nach Söldnermanier, oder? Ähnlich wie ein Freund von mir.~
+
+@25   = ~Bestimmt bezog sich diese Witzelei nicht auf mich. Selbstlosigkeit ist mein zweiter Vorname.~
+
+@26   = ~Ich habe Drachen gekannt, die weniger habgierig waren als Ihr.~
+
+@27   = ~Ihr solltet besser das Gold schon einmal bereithalten. <CHARNAME> hier wird ohne meine Axt gar nichts tun. Und ich werde mit meiner Axt nichts ohne gute Bezahlung machen!~
+
+@28   = ~Diese jungen Zwerge heutzutage... man könnte glauben, dass sie nichts anderes als Gold interessiert.~
+
+@29   = ~Man nennt es "Zivilisation".~
+
+@30   = ~Nein, das ist pure Habgier.~
+
+@31   = ~Ich hoffe, Ihr werdet <CHARNAME> sehr gut belohnen, mein Freund. Unser Anführer hat sich einen ziemlichen Ruf an der Schwertküste erworben.~
+ ~Ich hoffe, Ihr werdet <CHARNAME> sehr gut belohnen, mein Freund. Unsere Anführerin hat sich einen ziemlichen Ruf an der Schwertküste erworben.~
+
+@32   = ~Ihr seid wirklich <CHARNAME>? Ich habe von Euch gehört.~
+
+@33   = ~Haben wir das nicht alle?~
+
+@34   = ~Wo war ich gleich wieder? Oh ja. Ich kann Euch versichern, dass Ihr für Eure Dienste angemessen entlohnt werdet.~
+
+@35   = ~In Ordnung! Ihr habt meine Aufmerksamkeit.~
+
+@36   = ~Ich glaube nicht, dass es den ganzen Aufwand wert ist.~
+
+@37   = ~Ja, das bin ich. Habt Ihr von unserer Abenteurergruppe gehört?~
+
+@38   = ~Wie? Ihr wisst, wer wir sind?~
+
+@39   = ~Grossartig. Wir sind berühmt. Könntet Ihr uns jetzt vielleicht helfen?~
+
+@40   = ~Ja, sicher. Wollt Ihr Euch unser Angebot anhören?~
+
+@41   = ~Sicher, wenn es sich lohnt.~
+
+@42   = ~Wie Ihr wünscht. Sprecht wieder mit mir, wenn Ihr Eure Meinung geändert haben solltet.~
+
+@43   = ~Ich würde ein wenig herumfragen. Die Schattendiebe beherrschen das Hafenviertel, daher ist dort auch ihr Operationsgebiet. Aber Grudin könnte sich auch hier in den Slums befinden. Ich glaube aber nicht, dass er am Tag seiner Arbeit nachgeht.~
+
+@44   = ~Viel Glück. Wenn Ihr etwas Neues wisst, dann sprecht wieder mit mir.~
+
+@45   = ~Ah, Ihr seid es wieder. Habt Ihr Eure Meinung geändert?~
+
+@46   = ~Ja, ich werde mir die Sache anhören.~
+
+@47   = ~Nein, nicht wirklich.~
+
+@48   = ~Habt Ihr denn etwas herausgefunden?~ [O#DCDur3]
+
+@49   = ~Das habe ich! Und ich habe den Kontaktmann auch schon getroffen, aber... (Ihr sagt ihm alles.)~
+
+@50   = ~Ich habe mich ein wenig umgehört und ich weiss, dass Grudin in der Nacht im westlichen Teil der Slums zu finden ist.~
+
+@51   = ~Nein, noch nicht.~
+
+@52   = ~Verzeiht, aber ich habe andere Pläne.~
+
+@53   = ~Ja. Wo soll ich anfangen?~
+
+@54   = ~Ja, das habe ich mir auch schon gedacht. Und auch wie viel Bier Khaggoth wohl braucht, um unter dem Tisch zu liegen.~
+
+@55   = ~Hey! Ihr wisst schon, dass das nicht lustig war.~
+
+@56   = ~Wie auch immer. Habt Ihr mir irgendetwas zu sagen?~
+
+@57   = ~Der Kontaktmann wurde von einer Gruppe ermordet, die sich Schattenbande nennt. Er erwähnte den Hafen und Kapitän Randall.~
+
+@58   = ~Ja, ich bin auf den Kontaktmann gestossen, aber... (Ihr sagt ihm alles.)~
+
+@59   = ~Ich habe herausgefunden, dass Grudin des Nachts im westlichen Teil der Slums zu finden ist.~
+
+@60   = ~Nicht wirklich. Ich komme später wieder auf Euch zurück.~
+
+@61   = ~Könntet Ihr mir noch einmal sagen, wo ich beginnen soll?~
+
+@62   = ~Sehr gut. Wir werden hier sein.~
+
+@63   = ~Grossartig. Herumstehen und noch mehr herumstehen, Geduld ist eine Tugend. Mein Tag scheint immer besser zu werden.~
+
+@64   = ~Gute Neuigkeiten, aber ich hätte es lieber gesehen, wenn Ihr ihn tatsächlich gefunden hättet. Ich hoffe, dass Ihr das werdet.~
+
+@65   = ~Man sagt, die Hoffnung stirbt niemals.~
+
+@66   = ~Sie hat mir zugeblinzelt! Ich schwöre es, dass sie mir zugeblinzelt hat! Ooooh, Castor ist auf dem Weg!~
+
+@67   = ~(seufz) Genau.~
+
+@68   = ~Hey, Durnkrag! Wie lange müssen wir noch in dieser üblen Spelunke ausharren? Hier sind bestimmt ein paar dumme Bauern, die bereit sind, die schmutzige Arbeit für ein paar Münzen zu erledigen. Und da wir gerade vom Teufel sprechen, ich glaube, ich sehe da jemanden, der in Frage kommen könnte.~ [O#DCAru1]
+
+@69   = ~Was wollt Ihr? Seht Ihr denn nicht, dass ich beschäftigt bin?~ [O#DCAru2]
+
+@70   = ~Könnt Ihr mir ein wenig über diesen Ort erzählen?~
+
+@71   = ~Es sieht so aus, als würdet Ihr nur an der Bar herumhängen und nichts tun.~
+
+@72   = ~Macht Euch nichts daraus.~
+
+@73   = ~Sicherlich! Ich habe ja nichts anderes zu tun, als meine wertvolle Zeit damit zu verbringen, Eure Fragen zu beantworten.~
+
+@74   = ~Verzeiht, dass ich Euch gestört habe.~
+
+@75   = ~Schön das zu hören. Was könnt Ihr mir über diesen Ort erzählen?~
+
+@76   = ~Es gibt keinen Grund, sarkastisch zu sein.~
+
+@77   = ~Ich glaube, dass Sarkasmus eine zu subtile Kunstform ist, die Ihr verstehen würdet. Daher werde ich etwas direkter. Verschwindet!~
+
+@78   = ~Idiot.~
+
+@79   = ~Ich gehe nirgendwo hin.~
+
+@80   = ~Verzeiht, dass ich Euch gestört habe.~
+
+@81   = ~Gibt es ein Möglichkeit, Euch davon zu überzeugen, mit mir zu reden?~
+
+@82   = ~Schön. Dann hängt hier ruhig weiter herum. Seid aber leise dabei und stört niemanden.~
+
+@83   = ~Dafür habe ich noch nie einen Grund gebraucht. Sarkasmus ist meine Art, der Welt zu sagen, wie ich über sie denke.~
+
+@84   = ~Wie kann ich Euch dazu bringen, dass Ihr mir ein paar Fragen beantwortet?~
+
+@85   = ~Ihr verschwendet meine Zeit.~
+
+@86   = ~Unser beider Zeit, Freundchen.~
+
+@87   = ~Und ich würde gerne wieder zu meinen Gewohnheiten zurückkehren, wenn es Euch nichts ausmacht.~
+
+@88   = ~Wart Ihr immer schon solch ein Arsch, oder habt Ihr Euch das angeeignet?~
+
+@89   = ~Dann ist ja alles gut.~
+
+@90   = ~Was muss ich tun, damit Ihr mit mir sprecht?~
+
+@91   = ~Ich versuche, jeden Tag ein Bastard zu sein. Das ist mein Hobby. Ich hätte auch lernen können, auf einem Instrument zu spielen, doch ein Bastard zu sein ist einfacher.~
+
+@92   = ~Nun, das scheint Euch ja nicht schwer zu fallen.~
+
+@93   = ~Was wird es mich wohl kosten, Euch zum sprechen zu bringen?~
+
+@94   = ~In der Tat. Es ist ein Geschenk.~
+
+@95   = ~Wir werden diese Unterhaltung später fortsetzen müssen.~
+
+@96   = ~Oder auch nicht. Kommt bloss nicht so schnell wieder.~
+
+@97   = ~50 Goldstücke.~
+
+@98   = ~Die Gier der Stadtbewohner wird wohl nie aufhören, mich zu beeindrucken. Doch ich hätte nie gedacht, sie bei einem Elfen zu finden.~
+
+@99   = ~Willkommen in der wirklichen Welt, Träumer. Ihr mögt ja in der Lage sein, im Wald zu leben und Euch von Beeren und Rinde zu ernähren, aber Unsereiner hier in der Stadt braucht nun einmal Geld.~
+
+@100  = ~50 Goldstücke für einen kurzen Moment Eurer Zeit? Das ist unverschämt!~
+
+@101  = ~Hier ist Euer Geld. Nun redet schon. Was könnt Ihr mir über diesen Ort erzählen?~
+
+@102  = ~Lasst mich mal nachdenken.~
+
+@103  = ~Denkt nicht zu viel, sonst überanstrengt Ihr Euer Gehirn.~
+
+@104  = ~Nehmt es hin, oder lasst es.~
+
+@105  = ~Schön. Was könnt Ihr mir denn nun über diesen Ort erzählen?~
+
+@106  = ~Keine Chance.~
+
+@107  = ~Macht, was ihr wollt.~
+
+@108  = ~Er wird Kupferkrone genannt.~
+
+@109  = ~... Und?~
+
+@110  = ~Fahrt fort.~
+
+@111  = ~Es ist besser, wenn Ihr nicht alles wisst.~
+
+@112  = ~Das ist unverschämt. Ich habe genug.~
+
+@113  = ~Es war eine Freude, mit Euch Geschäfte zu machen.~
+
+@114  = ~Moment mal. Ich bin gerade erst hier angekommen. Sprecht lieber mit den Einheimischen, wenn Ihr mehr wissen wollt.~
+
+@115  = ~Ihr diebischer Scharlatan!~
+
+@116  = ~Gebt mir mein Geld zurück.~
+
+@117  = ~Nichts zu danken.~
+
+@118  = ~Immer stets zu Diensten.~
+
+@119  = ~Verzeiht, aber der Handel war endgültig.~
+
+@120  = ~Was auch immer. Ich gehe jetzt.~
+
+@121  = ~Ich will mein Geld zurück.~
+
+@122  = ~Nein.~
+
+@123  = ~Billiger Bastard.~
+
+@124  = ~Gebt mir mein Geld zurück, oder ich schlachte Euch wie ein Schwein.~
+
+@125  = ~Nennt mich einen Fluss.~
+
+@126  = ~Ha! Ihr und wie viele Halblinge?~
+
+@127  = ~Was für ein Arsch.~
+
+@128  = ~Das ist es!~
+
+@129  = ~Irgend etwas sagt mir, dass wir hier wohl noch für eine sehr lange Zeit stehen werden...~
+
+@130  = ~Hallo zusammen! Ich bin Castor.~ [O#DCCas1]
+
+@131  = ~Wen haben wir denn hier? Habt Ihr ein wenig Zeit für Castor?~
+
+@132  = ~Castor!~
+
+@133  = ~Immer zu einem Scherz aufgelegt, unser Durnkrag. Und... treffen wir uns in einer Stunde oben, ja?~
+
+@134  = ~CASTOR!!~
+
+@135  = ~(seufz) Trotzdem... Ihr solltet zuerst mit Durnkrag sprechen.~
+
+@136  = ~Ihr solltet besser mit Durnkrag sprechen.~
+
+@137  = ~Er ist der Boss.~
+
+@138  = ~Hey, Schönheit! Ich glaube, Eure Kleidung wird am Boden meines Schlafzimmers ziemlich gut aussehen!~ [O#DCCas2]
+
+@139  = ~... aber ich glaube, sie mag mich nicht!~ [O#DCCas3]
+
+@140  = ~Hütet Eure Zunge, Dieb!~
+
+@141  = ~Wir sind wohl eifersüchtig, oder?~
+
+@142  = ~Wagt es nicht, Lady <CHARNAME> mit Euren anzüglichen Angeboten zu belästigen!~
+
+@143  = ~Anzüglich, wie? Wisst Ihr überhaupt, was dieses Wort bedeutet? Was soll's...~
+
+@144  = ~Mein Gott... äh, Götter! Ihr seid selbst für einen Elfen ziemlich ungewöhnlich. Seht nicht Arudin da drüben an, er ist ein Bastard...~
+
+@145  = ~Wort.~
+
+@146  = ~Hey!~
+
+@147  = ~... und, was habt Ihr denn heute Nacht noch so alles vor?~
+
+@148  = ~Mich von lüsternen Eichhörnchen wie Euch fernzuhalten. Entschuldigt mich.~
+
+@149  = ~Oh, na gut...~
+
+@150  = ~Wisst Ihr, ich hatte schon immer eine Vorliebe für blonde Halbelfen...~
+
+@151  = ~Vielleicht habt Ihr auch eine Vorliebe für eine Klinge an Eurem Hals?~
+
+@152  = ~Ähm... nein.~
+
+@153  = ~Oh, ein Halblingsmädchen! Ihr seid so wunderbar kurz...~
+
+@154  = ~Ihr wagt es?!~
+
+@155  = ~Ich meinte - äh, wundervoll proportioniert. Wollt Ihr einen Drink, oder zwei? Ich könnte Euch auf diesen Hocker helfen und wir...~
+
+@156  = ~Noch so eine Anspielung auf meine Grösse und Ihr werdet es bereuen!~
+
+@157  = ~Klar. Das hebe ich mir für später auf...~
+
+@158  = ~Ich werde es mir merken. Ihr habt wundervolles Haar, ich habe wundervolle... ähm... alles. Sollen wir?~
+
+@159  = ~(seufz) Schön. Aber vielleicht, nur vielleicht, könntet Ihr mir etwas Gesellschaft leisten?~
+
+@160  = ~Nur in Euren Träumen und meinen Albträumen.~
+
+@161  = ~Ooookayyy...~
+
+@162  = ~Kommt mit bloss nicht zu nahe, Jaluk.~
+
+@163  = ~Äh, das wollte ich nicht. Ihr seid ziemlich... einschüchternd.~
+
+@164  = ~Gut.~
+
+@165  = ~So...~
+
+@166  = ~Dieser Salvanas versaut mir meine Chancen. Wie kann ich zum Zug kommen, wenn dieser Kerl hier herumhängt?~
+
+@167  = ~Es ist schon allein ein Wunder, wenn Ihr überhaupt zum Zuge kommt.~
+
+@168  = ~Das ist reine Ausdauer, mein Freund! Die Damen können nicht ewig widerstehen und werden mit der Zeit weich. Früher oder später werde ich sie alle kriegen!~
+
+@169  = ~Charmant.~
+
+@170  = ~Was habt Ihr da? Es sieht aus wie ein - AAAAAHHH!!!~
+
+@171  = ~Ich könnte Eure Phobie gegenüber Nagetieren amüsant finden, wenn Eure schrillen Schreie nicht mein Trommelfell platzen lassen würden.~
+
+@172  = ~Fürchtet Euch nicht vor Boos mächtiger Ausstrahlung, kleiner Mann. Er ist ein edler Hamster, der nur das Böse in den Hintern tritt!~
+
+@173  = ~Wow! Süss, flauschig und ein Kämpfer für das Recht! Ich muss mir auch einen Hamster besorgen!~
+
+@174  = ~Denkt nicht einmal daran! Mein Leben ist schon stressig genug. Da brauche ich nicht noch einen Hamster, der über mich krabbelt, während ich schlafe!~
+
+@175  = ~Wie wäre es mit einem Eichhörnchen? Oder vielleicht einem Wiesel?~
+
+@176  = ~Nein!~
+
+@177  = ~Nun... Was kann Castor für Euch tun?~
+
+@178  = ~Ihr solltet besser mit Durnkrag sprechen, nicht mit mir.~
+
+@179  = ~Denkt mal, Ihr und ich - wir könnten etwas später Spass zusammen haben, versprochen! Aber verschwindet nicht irgendwo, verstanden?~
+
+@180  = ~Sicher, warum nicht?~
+
+@181  = ~Denkt nicht einmal daran.~
+
+@182  = ~Nach wie vielen Mädchen?~
+
+@183  = ~Das ist richtig. Alle für Castor, alle für Castor...~
+
+@184  = ~(seufz) Perverser.~
+
+@185  = ~Drat! Sehe ich lächerlich aus?~
+
+@186  = ~Um ehrlich zu sein... Ja, Castor. Das tut Ihr.~
+
+@187  = ~Danke, Arudin. Ich wusste immer schon, dass ihr auf meiner Seite steht.~
+
+@188  = ~Nun...~
+
+@189  = ~Kommt schon, Castor. Sagt es ihr.~
+
+@190  = ~Äh... will sie es wirklich wissen? Egal.~
+
+@191  = ~Hallo da. Ich bin Khaggoth und wir suchen nach...~ [O#DCKha1]
+
+@192  = ~Hey, hey, immer langsam! Wir wollen es doch richtig machen!~
+
+@193  = ~Ja, Khaggoth. Wo sind nur Eure Manieren?~
+
+@194  = ~Verzeiht uns, Kumpel.~
+
+@195  = ~Ja, gut... lasst es mich einfach tun.~
+
+@196  = ~Und? Habt Ihr etwas herausgefunden? Ihr solltet mit Durnkrag sprechen, er ist der Ansprechpartner.~
+
+@197  = ~Kennt Ihr jemanden mit dem Namen Grudin?~
+
+@198  = ~Grudin? Noch nie gehört. Nein, es tut mir Leid, ich kann Euch nicht helfen.~
+
+@199  = ~Grudin? Natürlich. Ihr findet ihn im Westen der Slums, aber er arbeitet nicht am Tag. Aber glaubt mir, Ihr tätet gut daran, meine Waren zu begutachten, <LADYLORD>.~
+
+@200  = ~Seht Euch im westlichen Teil der Slums um. Er wird sich dort aufhalten.~
+
+@201  = ~Ich würde Euch lieber etwas fragen. Kennt Ihr jemanden mit dem Namen Grudin?~
+
+@202  = ~Aber natürlich. Ihr könnt ihn westlich von hier treffen. In der Nacht ist er immer dort.~
+
+@203  = ~Dies ist Eure letzte Chance, Grudin! Wenn es sein muss, werden wir Euch die Truhe von Eurem toten Körper entreissen.~ [O#DCGan1]
+
+@204  = ~Wie oft muss ich es Euch denn noch sagen? Ich habe sie - Autsch! - nicht mehr!~
+
+@205  = ~Soll ich ihn erledigen?~
+
+@206  = ~Wartet eine Minute, Remus. Was soll das heissen, Ihr habt sie nicht mehr? Wer hat sie dann?~
+
+@207  = ~Ich habe sie an Schmuggler verkauft, aber sie sind nicht mehr in Athkatla. Ihr Versteck ist ein alter, verlassener Tempel des... Drachenkultes! Auf der Drachenzahn-Insel! Ich war einmal dort und... dies ist ein schrecklicher Ort!~
+
+@208  = ~Schrecklich? Wieso? Was ist dort so schrecklich?~
+
+@209  = ~Man begegnet dort vielen unheimlichen Dingen. Schmugglern, Untoten, Golems und... sogar einem Leichnam! Aber wenn Ihr unbedingt dorthin gehen wollt, dann bitte. Fragt im Hafen nach Kapitän Randall - er ist der einzige, der dorthin segeln würde.~
+
+@210  = ~(räuspert sich) Ich unterbreche ja nur ungerne, aber ich glaube, wir haben Gesellschaft.~
+
+@211  = ~Das macht unsere Diskussion einfach. Macht's gut, Grudin.~
+
+@212  = ~Und so wird es jetzt enden. Dankt den Göttern! - Aaaaargh!~
+
+@213  = ~Dies ist wahrlich die letzte Grausamkeit, die Ihr begangen habt, Räuber!~
+
+@214  = ~Torm möge Euch verdammen! Heute werdet Ihr hier fallen!~
+
+@215  = ~<CHARNAME>, wir dürfen sie nicht davonkommen lassen!~
+
+@216  = ~Ihr werdet hier nicht lebend wegkommen.~
+
+@217  = ~Das werden wir noch sehen, oder?~
+
+@218  = ~Wer zum Teufel seid Ihr?~
+
+@219  = ~Warum können wir nicht friedlich teilen?~
+
+@220  = ~Vielleicht sollten wir lieber zusammenarbeiten?~
+
+@221  = ~Ha! Es wird mir Spass machen, Euch aufzuschlitzen!~
+
+@222  = ~Weil die Schattenbande keine Zeugen gebrauchen kann.~
+
+@223  = ~Nicht, wenn wir aushelfen können.~
+
+@224  = ~Wir sind die Schattenbande. Und Ihr - Ihr seid tot.~
+
+@225  = ~Ganelon, wartet! Die Truhe! Wir dürfen keine Zeit verlieren!~
+
+@226  = ~Na gut. Aber wenn wir uns wieder treffen sollten, dann wird Euch das bestimmt nicht gefallen.~
+
+@227  = ~Die Schattenbande?~
+
+@228  = ~Uuuups.~
+
+@229  = ~Nicht schon wieder!~
+
+@230  = ~Irgendwie überrascht mich das gar nicht.~
+
+@231  = ~Was sind das für Typen - die Schattenbande?~
+
+@232  = ~Sind das Verrückte oder so etwas?~
+
+@233  = ~Nun, sie sind davongelaufen. Also können sie gar nicht so stark sein.~
+
+@234  = ~Ihr wisst nicht einmal die Hälfte davon.~
+
+@235  = ~Unterschätzt sie nicht. Sie sind ziemlich trickreich und verschlagen.~
+
+@236  = ~Sie sind eine Söldnergruppe. Habgier und der Mangel an Benehmen sind das Einzige, das sie zusammenhält.~
+
+@237  = ~Ich kann mir nicht helfen, aber irgendwie sind mir diese Typen sympathisch.~
+
+@238  = ~Nicht alle von uns denken immer nur ans Geld, Arudin. Sie müssen ebenfalls hinter Leoncourts Truhe her sein. Wir sollten uns zum Hafen begeben und uns nach diesem Kapitän umhören. <CHARNAME>, ich wäre über Eure Hilfe sehr erfreut.~
+
+@239  = ~Beatrice!~
+
+@240  = ~Ich habe stundenlang nach Euch gesucht - Wo seid Ihr denn gewesen?~ [O#DCBea1]
+
+@241  = ~Wo seid Ihr gewesen?~
+
+@242  = ~Ich habe nach dem Kontaktmann gesucht - doch das ist jetzt nebensächlich. Ich habe die Schattenbande gesehen! Bei den Hafenanlagen! Sie wollen in See stechen und sprachen mit einem Kapitän - Ganelon erwähnte eine Truhe - wir müssen uns dorthin begeben, bevor sie verschwunden sind!~
+
+@243  = ~Ich danke Euch für diese wichtige Information, welche in keinem Fall überflüssig und unnötig war.~
+
+@244  = ~Arudin wollte damit sagen, dass wir das schon wussten.~
+
+@245  = ~Wir wollten uns sowieso dorthin auf den Weg machen. Auf was wartet ihr denn alle noch? Vorwärts!~
+
+@246  = ~Das ist ja alles schön und gut, aber wo ist meine Belohnung?~
+
+@247  = ~Hey, und was ist mit mir?~
+
+@248  = ~Wo geht Ihr hin?~
+
+@249  = ~Zum den Hafenanlagen!~
+
+@250  = ~Wie ich Euch schon sagte: Wenn wir die Truhe haben, werden wir die Belohnung gerecht aufteilen. Aber zuerst müssen wir die Truhe wieder zurück bekommen!~
+
+@251  = ~Wir könnten Eure Hilfe gebrauchen. Kommt Ihr mit?~
+
+@252  = ~Ja, ich komme mit.~
+
+@253  = ~Natürlich! Nehmt mich mit!~
+
+@254  = ~Im Moment habe ich leider Wichtigeres zu tun.~
+
+@255  = ~Definitiv nicht.~
+
+@256  = ~Habt Ihr nicht gehört, was Beatrice sagte? Zu den Hafenanlagen natürlich!~
+
+@257  = ~Genau!~
+
+@258  = ~Dann werden wir uns bei den Hafenanlagen treffen. Macht Euch baldigst auf den Weg, bevor die Schattenbande abgelegt hat.~
+
+@259  = ~Kommt Kameraden, gehen wir!~
+
+@260  = ~Dann denkt darüber nach! Aber denkt schnell, bevor die Schattenbande davongesegelt ist.~
+
+@261  = ~So treffen wir uns also wieder.~ [O#DCDur4]
+
+@262  = ~Ich habe auf diesen Moment gewartet.~ [O#DCGan2]
+
+@263  = ~Das habe ich auch.~ [O#DCAru3]
+
+@264  = ~Auf was sollte man sich freuen? Bäh. Ein fadenscheiniger Darthiir, ein abstossender Zwerg, ein dummer Halbork und... Castor?~
+
+@265  = ~Sie hatte schon immer eine Schwäche für mich!~
+
+@266  = ~Die einzige Schwäche hier ist Euer Eierkopf, der bald von Eurem Hals getrennt werden wird.~
+
+@267  = ~Aaah, ein ruhmreicher Kampf für Minsk, Boo und Freunde! Auf geht's!~
+
+@268  = ~Jetzt bin ich verwirrt. Sind diese Gruppen wirklich so unterschiedlich?~
+
+@269  = ~Warum stauchen wir diese schwachen Mischlinge nicht einfach zusammen, <CHARNAME>? Die andere Gruppe hat mehr Stärke.~
+
+@270  = ~Vorsichtig, mein Freund. Wir wollen doch nicht zwischen Hammer und Amboß geraten.~
+
+@271  = ~Ihr da! Warum schliesst Ihr Euch alternativ nicht uns an? Im Gegensatz zu den anderen wollen wir den Schatz für uns behalten! Unser letztes Zusammentreffen war ein Missverständnis - Schlagt Euch auf unsere Seite und Ihr werdet es nicht bereuen!~
+
+@272  = ~Hört nicht auf sie! Sie sind böse, <CHARNAME>! Sie werden Euch hintergehen!~
+
+@273  = ~Womit sollten wir Euch denn hintergehen? Mit den paar hundert Goldstücken, die Leoncourt Euch geben wird? Vergesst es! Der wahre Schatz wird uns gehören! Schliesst Euch uns an und er wird auch Euch gehören!~
+
+@274  = ~Ihr habt Euer Wort immer gehalten. Hört nicht auf die Schattenbande, <CHARNAME>!~
+
+@275  = ~Ich habe versprochen, Euch und Eurer Gruppe zu helfen, Durnkrag. Und ich stehe dazu!~
+
+@276  = ~Ich hatte nicht vor, auf die Schattenbande zu hören. Ich bin auf Eurer Seite.~
+
+@277  = ~Ich glaube, die Schattenbande liegt mir mehr. Ich werde mich ihnen anschliessen.~
+
+@278  = ~Tut mir Leid, Durnkrag! Ich werde mich dieses Mal der Schattenbande anschliessen!~
+
+@279  = ~Lasst mich aus dieser Sache heraus.~
+
+@280  = ~Was?~
+
+@281  = ~Ich glaube kaum, dass Ihr so einfach gehen könnt.~
+
+@282  = ~Ihr wisst zu viel.~
+
+@283  = ~Wenn Ihr Euch nicht für eine Seite entscheiden könnt, dann muss eine Seite sich für Euch entscheiden.~
+
+@284  = ~Ich werde Euch unterstützen, Durnkrag. Ich werde meine Freunde nicht im Stich lassen.~
+
+@285  = ~Dann werde ich mich der Schattenbande anschliessen.~
+
+@286  = ~Na schön! Dann werde ich Euch alle töten!~
+
+@287  = ~Idiot.~
+
+@288  = ~Das ist <PRO_HISHER>e Natur. Habt Ihr <PRO_HIMHER> denn nicht erkannt, Durnkrag? Das ist ein Kind von Bhaal.~
+
+@289  = ~Wir gehen.~
+
+@290  = ~Ich hasse es ja, so etwas zu sagen. Aber es macht Sinn, sich anzuschliessen.~
+
+@291  = ~Ausgezeichnet! Greift an!~
+
+@292  = ~Funga!~
+
+@293  = ~Wir werden überannt!~
+
+@294  = ~Schattenbande, ihr wisst, was zu tun ist!~
+
+@295  = ~Ha! Na gut, Elf! Ihr seid tot!~
+
+@296  = ~Das werden wir noch sehen!~
+
+@297  = ~Nein, das werden wir nicht! Durnkrag, wir sind in der Unterzahl und müssen von hier verschwinden!~
+
+@298  = ~Arudin!~
+
+@299  = ~Oh, alles klar.~
+
+@300  = ~Dort! Ist jeder in Ordnung?~ [O#DCDur5]
+
+@301  = ~Mehr oder weniger.~ [O#DCAru4]
+
+@302  = ~Dann lasst uns gleich mit diesem Kapitän Randall sprechen.~
+
+@303  = ~Ausgezeichnet. Sie hielten wohl nicht sehr viel von einem Kampf.~ [O#DCGan3]
+
+@304  = ~Ziemlich befriedigend, oder, Ganelon?~
+
+@305  = ~Jawohl. Ist jetzt alles bereit? Ist <CHARNAME> - Oh, gut, Ihr seid noch hier. Dann treffen wir uns mit Kapitän Randall.~
+
+@306  = ~Und Ihr wollt nun alle auf die Drachenzahn-Insel?~
+
+@307  = ~Das wollen wir, wenn Ihr uns mitnehmt. Unsere Kameraden kommen auch mit.~
+
+@308  = ~Ja, das wollen wir, wie Ihr sicher schon erkannt habt. Unsere neuen "Freunde" wollen auch mit. Wie sieht es aus?~
+
+@309  = ~Nicht gerade die beste Zeit, um dorthin zu segeln, Nossir. Ihr müsst ganz schön verrückt sein, wenn Ihr wirklich dorthin segeln wollt. Dort sind schon viele Leute verschwunden. Nicht alle von ihnen gingen freiwillig dorthin. Sie wurden als Sklaven für die Kultisten zu der Insel gebracht. Doch sie verschwanden alle. Ein seltsamer Ort...~
+
+@310  = ~Warum seid Ihr dann trotzdem so begierig, uns dorthin zu bringen?~
+
+@311  = ~Und wieso betreibt Ihr überhaupt dieses gefährliche Geschäft, Jaluk? Verbergt Ihr etwas vor uns?~
+
+@312  = ~Ha! Ich würde selbst einen Drachen dorthin bringen, wenn ich gut bezahlt werde. 2000 Goldstücke und Ihr könnt an Bord gehen.~
+
+@313  = ~Schön. Das sind dann 1000 von uns und 1000 von unseren neuen Verbündeten. <CHARNAME>, seid ihr damit einverstanden? Wollt Ihr mit uns kommen und Lord Leoncourts Truhe finden?~
+
+@314  = ~Abgemacht! Wir sind bereit, unseren Teil zu bezahlen und ich habe 1000 Goldstücke gleich hier. <CHARNAME>, wollt Ihr mit uns kommen, Lord Leoncourts Truhe finden und die Belohnung teilen? Wenn ja, dann bezahlt die andere Hälfte, ja?~
+@315  = ~Ich g-glaube wir sollten es tun... oder?~
+
+@316  = ~Das gefällt mir nicht, <CHARNAME>. Wir könnten im Namen Helms grössere und bessere Dinge vollbringen, als mit ein paar Herumtreibern zu einer vergessenen Insel zu segeln!~
+
+@317  = ~Macht, was Ihr wollt, <CHARNAME>, aber denkt daran: Irenicus ist immer noch am Leben. Diese Reise wird uns unserem Endziel nicht viel näher bringen.~
+
+@318  = ~Tausend Goldstücke? Der Rivvil ist wohl ziemlich von sich überzeugt, oder?~
+
+@319  = ~Mir ist es egal, wer mich bezahlt. Hauptsache ich bekomme meinen Teil.~
+
+@320  = ~Tausend Goldstücke? In Ordnung. Hier bitte schön.~
+
+@321  = ~Ich habe nicht so viel bei mir. Könntet Ihr warten, bis ich einige Dinge verkauft habe?~
+
+@322  = ~Ich muss zuerst noch etwas erledigen. Ich werde bald wieder zurück sein.~
+
+@323  = ~Keine Chance. Ich werde nichts bezahlen und auch nicht mitkommen.~
+
+@324  = ~Ausgezeichnet!~
+
+@325  = ~Und, seid ihr bereit? Legen wir los. Legt Euch besser etwas hin, falls Ihr seekrank werdet. Wenn die Winde günstig sind, werden wir morgen die Insel erreichen.~
+
+@326  = ~Bei den neun Höllen! Habt Ihr es Euch nun endlich überlegt!~
+
+@327  = ~Na gut. Wir werden hier auf Euch warten, <CHARNAME>. Dann können wir zusammen segeln.~
+
+@328  = ~Ja, wir sind von den Aussichten wirklich begeistert. Noch mehr Körper, die in den Bauch eines stinkenden Schiffes gezwängt werden. Oh, Ihr Götter.~
+
+@329  = ~Dann solltet Ihr Euch besser beeilen.~
+
+@330  = ~Schön. Beeilt Euch damit.~
+
+@331  = ~Können wir nicht auf eigene Faust loslegen? Ich traue diesem Mann nicht.~
+ ~Können wir nicht auf eigene Faust loslegen? Ich traue dieser Fraunicht.~
+
+@332  = ~Genau so ist es. Was wäre das für eine Welt, wenn wir jedem alles blindlings glauben würden? Wir werden hier sein, <CHARNAME>.~
+
+@333  = ~Was auch immer.~
+
+@334  = ~Nun, es ist Eure Entscheidung. Dann auf Wiedersehen.~
+
+@335  = ~Wartet! <CHARNAME>, wir sind noch mindestens eine Stunde hier! Wenn Ihr es Euch anders überlegen solltet, dann schliesst Euch uns an. Dies ist ein gefährlicher Ort, zu dem wir segeln, und Eure Hilfe wäre sehr willkommen.~
+
+@336  = ~Haltet ein, Kapitän. <CHARNAME>, unsere Abreise wird noch ein Weilchen dauern. Verpasst Eure Chance nicht - kommt und schliesst Euch uns bald an. Ihr würdet es bereuen, wenn Ihr es nicht tut. Glaubt mir.~
+
+@337  = ~Verdammte Abenteurer. Sie legen ihre schlechten Angewohnheiten wohl nie ab.~
+
+@338  = ~Seid Ihr nun bereit, oder nicht? Ich werde nicht ewig warten. Verstanden?~
+
+@339  = ~Hier sind 1000 Goldstücke. Setzen wir die Segel.~
+
+@340  = ~Nehmt das Geld und lasst uns aufbrechen.~
+
+@341  = ~Nur ein wenig länger.~
+
+@342  = ~Dämliche Abenteurer...~
+
+@343  = ~Kapitän Randall wartet, <CHARNAME>. Ihr solltet besser schnellstens das Gold besorgen.~
+
+@344  = ~Ein. Tausend. Goldstücke.~
+
+@345  = ~Seht, ich fange gerade an, in Ordnung?~
+
+@346  = ~Hier im Hafenviertel sind ein paar hübsche Mädels, oder? Zu dumm, dass keine Zeit für eine schnelle, äh...~
+
+@347  = ~(seufz)~
+
+@348  = ~Ziemlich zugig hier, oder nicht?~
+
+@349  = ~Wenn Ihr bereit seid, dann sagt es Randall. Wenn nicht, dann geht mir aus den Augen.~
+
+@350  = ~Und? Habt Ihr das Geld? Ihr seid hier im Hafen, müsst Ihr wissen. Hier gibt es viele Räuber. Aber ich habe nichts gesagt.~
+
+@351  = ~Ich hasse das Meer. Arrrgh! Wir sollten sie alle schnell erledigen und es hinter uns bringen.~
+
+@352  = ~Beeilt Euch, Abbil. Ganelon wird langsam ungeduldig.~
+
+@353  = ~Ooooh...~ [O#DCDur6]
+
+@354  = ~Oh... oh, ich fühle mich wie gerädert... überall... von etwas spitzem und schweren.~ [O#DCCas4]
+
+@355  = ~Wurden wir vergiftet?~
+
+@356  = ~Eher unter Drogen gesetzt.~
+
+@357  = ~Was... was ist geschehen?~
+
+@358  = ~Ich sage Euch, was geschehen ist. Erinnert Ihr Euch, was Randall sagte? Sie transportierten Sklaven für die Kultisten mit diesem Schiff. Wir sind die Sklaven. Die gute Nachricht ist, dass wir angekommen sind.~
+
+@359  = ~Wie bitte? Gute Nachricht?~
+
+@360  = ~Die Schmuggler müssen hier sein. Ich dachte, Ihr wolltet die Belohnung für die Rückgabe von Lord Leoncourts Truhe bekommen?~
+
+@361  = ~Ihr habt vergessen, anzuhängen: "ohne als Slaven oder Mahlzeit zu enden".~
+
+@362  = ~Gefangen. Wir sind g-gefangen!~
+
+@363  = ~Nur keine Sorgen, Süsse. Castor wird gut auf Euch - autsch!~
+
+@364  = ~Kommt mir bloss n-nicht wieder zu nahe! Onkel Quayle hat mich vor Lustmolchen wie Euch gewarnt!~
+
+@365  = ~Also sind wir nun in einem völlig unbekannten Gewölbe und wir haben keine Ahnung, wo wir zu suchen beginnen sollen. Das läuft ja wieder ganz hervorragend.~
+
+@366  = ~Genau. So ist es doch immer, Red.~
+
+@367  = ~Schluss damit!~
+
+@368  = ~Wir sind im Zentrum des Bösen, <CHARNAME>! Selbst Boo ist schweigsam geworden.~
+
+@369  = ~Ausgezeichnet. Genau das wollte ich immer: Mit einem Waldläufer zusammen zu enden, der mit einem Hamster spricht.~
+
+@370  = ~Jetzt habt Ihr Boo verärgert! Seht, wie seine Wimpern schon zittern! Bereuet!~
+
+@371  = ~Das ist ganz klar ein hoffnungsloser Fall.~
+
+@372  = ~Ich bin mit dieser Situation höchst unzufrieden, <CHARNAME>. Ihr bringt uns besser baldigst wieder hier raus.~
+
+@373  = ~Oh, ja? Wie wäre es damit, wenn Ihr einfach den Mund haltet?~
+
+@374  = ~Aber meine Damen!~
+
+@375  = ~Warum habt Ihr das getan? Ich wollte einen Frauenkampf sehen!~
+
+@376  = ~Seid jetzt ALLE mal still!~
+
+@377  = ~Und was sollten wir jetzt tun?~
+
+@378  = ~Wir sollten uns aufteilen. <CHARNAME>, Ihr bleibt hier. Wir werden die Passage hinter Euch untersuchen.~
+
+@379  = ~Sehr schön.~
+
+@380  = ~Wo werden wir uns dann wieder treffen?~
+
+@381  = ~Kommt nicht in Frage! Wir müssen zusammen bleiben!~
+
+@382  = ~Ausgezeichnet. Gehen wir hinauf.~
+
+@383  = ~Die Treppen hoch. Gehen wir hinauf.~
+
+@384  = ~Wir können hier nicht herumhängen. Und Ihr seht so aus, als könnte sich Euch nichts in den Weg stellen. Ich hoffe nur, dass man das von uns auch behaupten kann.~
+
+@385  = ~Endlich sind Castors Fähigkeiten einmal von Nutzen.~
+
+@386  = ~Was habt Ihr gemeint?~
+
+@387  = ~Fallen, Castor. Hier gibt es Fallen.~
+
+@388  = ~...Mist. Kann man denn nicht einmal durch ein Verlies gehen, ohne versengt oder verstümmelt zu werden?~
+
+@389  = ~Los jetzt, gehen wir. Passt auf Euch auf, <CHARNAME>.~
+
+@390  = ~Was bei den Neun Höllen geht hier vor?~ [O#DCGan4]
+
+@391  = ~Wir wurden unter Drogen gesetzt.~
+
+@392  = ~Das hätte ich auch ohne Euch herausgefunden, Remus!~
+
+@393  = ~Mir gefällt das nicht, unsere gegenwärtigen Alliierten inbegriffen. Seid auf der Hut.~
+
+@394  = ~Diese Schlange! Das war ohne Zweifel der Kapitän!~
+
+@395  = ~Wer hat es gewagt, uns so hinters Licht zu führen? Bei Arvoreen, diese Ungerechtigkeit wird nicht ungestraft bleiben!~
+
+@396  = ~Ich habe diesen Randall von Anfang an nicht gemocht. Er muss es gewesen sein.~
+
+@397  = ~Diese Ratte von einem Seefahrer wurde bezahlt, Ganelon. Jemand versucht, uns zu versklaven.~
+
+@398  = ~Oder zu einem kleinen Leckerbissen zu machen.~
+
+@399  = ~Haltet beide endlich den Mund. Die Truhe muss hier irgendwo sein. Teagan, Mac, Remus - ihr werdet mit mir in diese Richtung gehen. <CHARNAME>, untersucht die Passage dort drüben. Wir werden Euch dann ein Stockwerk höher treffen - oder eines tiefer, je nach dem.~
+
+@400  = ~Einen Moment mal! Wie kommt Ihr dazu, mir Befehle geben zu wollen?~
+
+@401  = ~Genau. Viel Glück Euch allen.~
+
+@402  = ~Und wenn Ihr die Truhe vor mir findet?~
+
+@403  = ~Wollt Ihr die Truhe nun schnellstens finden, oder nicht? Ich habe nicht vor, mich hier länger als nötig aufzuhalten. Übrigens, die Passage, die wir nehmen werden, sieht wesentlich ungefäh... äh, vergesst es.~
+
+@404  = ~Glück? Wer braucht schon Glück, wenn man einfallsreich ist?~
+
+@405  = ~Wir werden die Belohnung wie versprochen teilen.~
+
+@406  = ~Oh, ja! Wir werden alles tun, um Euch zu finden, falls wir sie zuerst entdecken.~
+
+@407  = ~Das Wort der Schattenbande sollte genügen.~
+
+@408  = ~Jetzt kommt ihr drei. Vorsicht! Hier ist ein Stolperdraht in der Nähe.~
+
+@409  = ~Gut. Ich werde mich nach Fallen umsehen.~
+
+@410  = ~Schade, dass ihr Euch entschieden habt, uns aufzuteilen, Ganelon. Wir könnten jemanden... gebrauchen... der vorausgeht.~
+
+@411  = ~Aus dem Weg, Drow! Ich werde zuerst gehen.~
+
+@412  = ~Wenn man es jedoch näher betrachtet, vergesst es.~
+
+@413  = ~Dann habt Ihr es also geschafft, in mein kleines Verlies zu gelangen. Aber Ihr werdet nicht mehr weiterkommen. Verzweifelt, Ihr Narren! Denn heute Abend werde ich ein Bankett aus eurem Fleisch geniessen!~ [O#DCLep1]
+
+@414  = ~Oh, seht! Ein Häschen! Ist es nicht süss?~
+
+@415  = ~Entschuldigt mich? Wer seid Ihr?~
+
+@416  = ~Nach alle dem... ein Hase?~
+
+@417  = ~Nun, kleiner Hoppler. Wir suchen nach der Truhe von Lord Leoncourt. Habt Ihr sie vielleicht gesehen?~
+
+@418  = ~Ihr werdet mich bald nicht mehr niedlich finden, wenn ich Euer Blut auf den Boden verspritzt habe und Euch mit Euren eigenen Eingeweihden erwürgen werde!~
+
+@419  = ~Ich bin Euer Verderben, lächerlicher <PRO_RACE>. Dennoch sollt Ihr den Namen Eures Henkers erfahren: Ich heisse Lepus.~
+
+@420  = ~Heute Nacht werdet Ihr in der Hölle schlafen! Wenn Ihr dort angekommen seid, dann lasst verlauten, dass Lepus Euch dorthin geschickt hat!~
+
+@421  = ~Bei Helm! Noch nie hat das Böse eine solch seltsame Form vor meinen Augen angenommen!~
+
+@422  = ~Diese Kreatur ist absolut unnatürlich. Eine Kreuzung zwischen einem normalen Hasen und einem Balor.~
+
+@423  = ~Das ist ein ziemlich unheimliches Häschen. Der Blick in seine Augen erinnert mich an die Zeit, als mein Tante Hildengarde zufällig ein Mundwasser schluckte. Das war schrecklich. Aber diese schimmernden Schneidezähne... ach, die Kindheitserinnerungen!~
+
+@424  = ~Ich würde Hasenbraten vorziehen. Har!~
+
+@425  = ~Jetzt werdet Ihr brennen! Ich mag mein Essen gut durch, wenn ich es zu mir nehme!~
+
+@426  = ~Es scheint, als wäre jemand ein sehr ungehorsames Häschen gewesen.~
+
+@427  = ~Mag jemand vielleicht Haseneintopf?~
+
+@428  = ~Dann steckt also Ihr hinter diesem ganzen Blödsinn?~
+
+@429  = ~Aaargh! Ein dämonischer Hase!~
+
+@430  = ~Es scheint an der Zeit für Euch zu sein, zu sterben!~
+
+@431  = ~Ich bin genauso wenig ein Hase, wie Ihr ein <PRO_RACE> seid. Ich kann das Blut eines Gottes in Euren Venen spüren, so wie dämonisches Blut durch meine fliesst. Euer Herz wird eine wahre Delikatesse werden. Ich werde es in vollen Zügen geniessen!~
+
+@432  = ~Das habe ich in der Tat. Aber Eure Reise endet hier. Die Truhe und deren Inhalt gehört mir! Ich werde es nicht zulassen, dass Ihr und Eure erbärmliche Gruppe mir das wegnehmt, was ich rechtmässig gestohlen habe! Der Tod erwartet Euch!~
+
+@433  = ~Heute Nacht wird es nur ein Abendessen geben - meines! Ich liebe meine Abenteurer gut geröstet! Ich sollte den Ofen vorheizen!~
+
+@434  = ~Ist Eure Neugier nun endlich befriedigt? Jaaa, ich habe die Truhe von Grudin gestohlen, samt seiner Hosen! Das Jahr 1367 - ein sehr guter Jahrgang für Hosen!~
+
+@435  = ~Hosen?~
+
+@436  = ~Das ist ja richtig fürchterlich...~
+
+@437  = ~Und dann was?~
+
+@438  = ~Mir egal. Jetzt sterbt Ihr!~
+
+@439  = ~Wollt Ihr zur Hölle wohl ruhig sein! Eure Schreie verderben mir den Appetit!~
+
+@440  = ~Ihr seid wohl nicht ganz bei Trost? Es braucht schon mehr als einen Schlag, um MICH niederzustrecken! Ihr werdet diesen Ort nicht mehr lebend verlassen! RAAARGH!!~
+
+@441  = ~Ich habe Randall gezwungen, jeden zu mir zu bringen, der nach dieser Truhe sucht. Und jetzt... seid Ihr gekommen und es ist Zeit für ein kleines Mahl! BWHAHAHAHA!!!~
+
+@442  = ~Denkt an meine Worte, Abenteurer! Ich werde zurückkehren!~ [O#DCLep2]
+
+@443  = ~Hab ihn!~
+
+@444  = ~Nehmt Eure stinkigen Pfoten von mir, dreckiger - Autsch! In Ordnung, das lief nicht ganz so, wie ich es mir vorgestellt hatte. Aber niemand kann Lepus aufhalten!~
+
+@445  = ~Autsch!~
+
+@446  = ~Mwahahaha!~
+
+@447  = ~Vergesst ihn! Wir haben die Truhe!~ [O#DCDur7]
+
+@448  = ~Aber es gibt keinen Ausgang hier. Das ist eine Ritualkammer - es gibt keinen Ausgang.~ [O#DCAru5]
+
+@449  = ~Dann bringt uns raus von hier! Seid Ihr nun ein Magier, oder nicht?~
+
+@450  = ~Falls Ihr es noch nicht vergessen haben solltet, wir haben schon mehrere Stunden lang keine Rast mehr gemacht!~
+
+@451  = ~Und Ihr habt natürlich keinen Teleportationsspruch mehr übrig, falls irgend etwas schief laufen sollte?~
+
+@452  = ~Glaubt Ihr vielleicht, wir werden beim ersten Versuch gleich in der Kupferkrone landen?~
+
+@453  = ~Ihr versucht es besser.~
+
+@454  = ~Wartet, lasst uns diesen Raum zuerst noch durchsuchen!~
+
+@455  = ~Bin gerade dabei.~
+
+@456  = ~Wollen wir den Hasen nicht weiter verfolgen?~
+
+@457  = ~Zu spät...~
+
+@458  = ~Wartet mal...~
+
+@459  = ~Warum denn? Wir haben doch jetzt die Truhe! Jetzt bewegt Euch nicht...~
+
+@460  = ~Vergesst das Vieh! Wir haben die Truhe!~ [O#DCGan5]
+
+@461  = ~Und was wollt Ihr mit ihr jetzt anstellen? Wir sind hier gefangen!~
+
+@462  = ~Nur keine Angst. Ich habe einen Spruch, der uns zurück nach Athkatla bringen wird...~
+
+@463  = ~Wartet einen Minute! Was ist mit mir?~
+
+@464  = ~Natürlich! Auf was warten wir denn noch?~
+
+@465  = ~Nein. Ich möchte zuerst noch diesen Raum durchsuchen!~
+
+@466  = ~Und was ist mit Euch?~
+
+@467  = ~Schweigt, Teagan. Wir werden uns fair verhalten. Wir haben einen Ruf zu verteidigen, wisst Ihr.~
+
+@468  = ~Und was für einen Ruf werden wir dann haben, wenn Ihr jedes Mal Euer Wort haltet?~
+
+@469  = ~Genug mit diesem Unsinn. Haltet jetzt alle still. Wir kehren nach Athkatla zurück...~
+
+@470  = ~Ausgezeichnet. Haltet jetzt alle still. Es geht zurück nach Athkatla...~
+
+@471  = ~Hier gibt es nichts mehr zu plündern, also verhaltet euch alle ruhig. Wir kehren nach Athkatla zurück...~
+
+@472  = ~Hahahaha!~ [O#DCGan6]
+
+@473  = ~Es hat funktioniert!~
+
+@474  = ~Ähm. Seid Ihr Euch sicher, dass wir auf dem Dach landen sollten?~
+
+@475  = ~Kümmert Euch jetzt nicht darum. Ich will sehen, was in der Truhe ist.~
+
+@476  = ~Und das ist genau das, was wir tun werden! Mac, kommt zu mir und helft mir mit dem Schloss.~
+
+@477  = ~Genau...~
+
+@478  = ~Kommt schon, öffnet sie!~
+
+@479  = ~Und, was ist drin?~
+
+@480  = ~Braucht Ihr Hilfe?~
+
+@481  = ~Nicht so schnell. Ich glaube, ich werde sie selbst behalten.~
+
+@482  = ~Wartet, Ihr. Mac, was ist es?~
+
+@483  = ~Einen Moment... Fertig, Boss. Hier, bitte schön.~
+
+@484  = ~Aufgepasst! Ich, Ganelon von der Schattenbande, präsentiere Euch stolz...~
+
+@485  = ~... ein paar Hosen?~
+
+@486  = ~Ein paar Hosen?~
+
+@487  = ~EIN PAAR HOSEN?!~
+
+@488  = ~Seid ruhig, Mac! Wir werden von hier verschwinden!~
+
+@489  = ~Wartet, wo wollt Ihr denn hin?~
+
+@490  = ~Ein paar Hosen? Was ist mit meiner Belohnung?~
+
+@491  = ~Nicht so schnell! Da die Belohnung nicht ausreichend ist, werde ich mich an Eurer Ausrüstung gütlich tun! Sterbt!~
+
+@492  = ~Dann versucht doch, sie aus meinen toten, kalten Händen zu nehmen! Doch Ihr werdet kläglich scheitern!~
+
+@493  = ~Wartet! Ganelon, wollt Ihr denn gar nicht wissen, für was Ihr da eigentlich kämpft?~
+
+@494  = ~Oh, na schön. Mac! Öffnet dieses verdammte Ding.~
+
+@495  = ~Bitte schön, Boss.~
+
+@496  = ~Geht mir aus dem Weg!~
+
+@497  = ~Ah, soweit musste es ja kommen. Sehr gut. Jetzt seht Ihr, dass die Gerüchte unserer Tapferkeit nicht übertrieben worden sind!~
+
+@498  = ~Au! Das kann man wohl kaum als ein weiche Landung bezeichnen!~ [O#DCCas5]
+
+@499  = ~Wo zur Hölle sind wir?~
+
+@500  = ~Wir sind in Athkatla, da bin ich mir sicher. Hey... wir sind auf dem Dach der Kupferkrone! Arudin, Ihr unglaublicher Bastard! Ihr habt es tatsächlich geschafft!~
+
+@501  = ~Die Truhe! Der Schatz! Schauen wir nach, was sich darin befindet!~
+
+@502  = ~Öffnet sie nicht. Ich will es nicht wissen.~
+
+@503  = ~Öffnet sie lieber nicht. Lord Leoncourt wird das nicht gefallen.~
+
+@504  = ~Und, was ist drin?~
+
+@505  = ~Ja, öffnet sie!~
+
+@506  = ~Wartet einen Moment. Ich will die Truhe lieber selbst behalten.~
+
+@507  = ~Tut es nicht, Arudin! Das ist Lord Leoncourts Eigentum. Wir sollten sie nicht öffnen.~
+
+@508  = ~Aww...~
+
+@509  = ~Kommt, gehen wir nach unten. Lord Leoncourt wartet bestimmt schon in der Kupferkrone auf uns. <CHARNAME>, kommt Ihr mit?~
+
+@510  = ~Natürlich! Ich will schliesslich wissen, wie das Ganze ausgeht.~
+
+@511  = ~Glaubt Ihr, ich habe meine Belohnung vergessen?~
+
+@512  = ~Keine Chance!~
+
+@513  = ~<CHARNAME>, diese Truhe gehört weder Euch, noch uns. Dennoch werdet Ihr Eure Belohnung erhalten, wenn Ihr wieder zu Sinnen kommen solltet. Was sagt Ihr dazu?~
+
+@514  = ~In Ordnung. Gehen wir in die Kupferkrone und treffen uns mit diesem Lord Leoncourt.~
+
+@515  = ~Nein. Ich will meine Truhe! Und ich will sie jetzt!~
+
+@516  = ~Das ist mein <PRO_GIRLBOY>!~
+
+@517  = ~Arudin, kläre sie doch bitte auf!~
+
+@518  = ~Ich liebe es, wenn ich gebeten werde, mit dem Feuer zu spielen.~
+
+@519  = ~Schauen wir endlich nach, was sich in der Truhe befindet! Castor! Öffnet dieses verammte Ding!~
+
+@520  = ~Warum ich? Warum immer ich?~
+
+@521  = ~Ich sehe, dass Eure Freunde ein wenig spät angekommen sind! Nun, da wir jetzt alle nett und gemütlich zusammen sind, könntet Ihr mir ja zeigen, was Ihr gefunden habt!?~
+
+@522  = ~Natürlich, Lord Leoncourt! Das ist doch die Truhe, die Euch gestohlen wurde, oder?~
+
+@523  = ~Zeigt her... Ja, das ist sie! Jetzt geduldet Euch einen Moment, bis ich sie geöffnet habe...~
+
+@524  = ~Ta-da! Ja, das sind sie! Meine Lieblingshosen, sauber und unbeschädigt.~
+
+@525  = ~HOSEN?!~
+
+@526  = ~H-Hosen?~
+
+@527  = ~Das ist eine ausgezeichnete Geschichte! Selbst Onkel Gerhardts Tanz mit den Greifen kommt da nicht hin!~
+
+@528  = ~Was? Und das alles für ein lumpiges Paar Hosen?~
+
+@529  = ~Eine ziemlich merkwürdige Wahl, oder?~
+
+@530  = ~Wir haben das alles nur wegen ein Paar Hosen gemacht? Perfekt. Ganz perfekt. Was kommt als nächstes? Reisen wir in das Unterreich, um nach der Unterwäsche von Bea zu suchen?~
+
+@531  = ~Das würde mir gefallen!~
+
+@532  = ~CASTOR!~
+
+@533  = ~ÄHM! Jetzt zu Eurer Belohnung. Zehntausend Goldstücke, wie besprochen. Steuerfrei nätürlich.~
+
+@534  = ~Und wie versprochen, <CHARNAME>, hier ist Euer Teil.~
+
+@535  = ~Ja, ja. Wunderbar. Jetzt muss ich aber wieder gehen. Eine gute Zeit wünsche ich Euch noch.~
+
+@536  = ~Fünftausend Goldstücke! Das ist fast schon ein kleines vermögen.~ [O#DCDur8]
+
+@537  = ~Ich werde mich jetzt erst einmal richtig besaufen.~
+
+@538  = ~Gute Idee. Kommt Ihr mit, Castor?~
+
+@539  = ~Nein. Ich habe da drüben in der Ecke ein wirklich hübsches Mädchen gesehen...~
+
+@540  = ~Ooooookay. Dann viel Glück mit ihr.~
+
+@541  = ~Niemand geht irgendwo hin! In gewissen Regionen gibt es ziemlichen Ärger und wir werden uns dorthin begeben!~
+
+@542  = ~Genau das habe ich mir gedacht.~
+
+@543  = ~Was, jetzt sofort?~
+
+@544  = ~Grossartig. Kann es denn noch schlimmer werden?~
+
+@545  = ~<CHARNAME>, es war eine Freude, Euch getroffen zu haben. Ich bedauere, dass wir nicht noch länger für einen Plausch bleiben können, aber wir müssen noch vor dem nächsten Morgen unser Schiff erreichen.~
+
+@546  = ~Nun... dann auf Wiedersehen.~
+
+@547  = ~Es war auch eine Freude, Euch getroffen zu haben.~
+
+@548  = ~Ich bin einfach froh, dass jetzt alles vorbei ist.~
+
+@549  = ~Auf Wiedersehen.~
+
+@550  = ~Ich wünsche Euch viel Glück auf Euren Reisen.~
+
+@551  = ~Nun... das bin ich auch, um ehrlich zu sein. Mit dieser Mannschaft kann man von Glück sagen, dass wir noch alle leben.~
+
+@552  = ~Es ist Zeit, meine Freunde. Auf zum Schiff! Das Abenteuer wartet nicht ewig auf uns!~
+
+@553  = ~Ooohoo! Ein richtiger Kunde! Wollt Ihr etwas Käse kaufen?~
+
+@554  = ~Ihr und Eure verdammte Käseleidenschaft.~
+
+@555  = ~Still, du verschrumpeltes altes Ding! Ich bin mitten im Verkauf!~
+
+@556  = ~Sehr schön. Fahrt fort.~
+
+@557  = ~Wie... interessant.~
+
+@558  = ~Ich selbst kann mich guten Gewissens als Käsekenner bezeichnen. Als ich noch mit Kräckern schmugg... äh, handelte... war ein hohes Fachwissen über Käsesorten unbedingt erforderlich. Aus irgendeinem unerklärlichen Grund wollte jeder plötzlich Käse auf seinen Kräckern haben. Ich persönlich bevorzuge aber lieber Steckrüben.~
+
+@559  = ~Das ist ein ziemlich ungewöhnliches Verhalten für solche Kreaturen. Seid auf der Hut.~
+
+@560  = ~Das ist verrückt!~
+
+@561  = ~Seid auf der Hut, <CHARNAME>. Ich weiss nicht was ich glauben soll, aber das kommt mir tückischer und gefährlicher als alles andere vor.~
+
+@562  = ~Und wie steht es nun mit Euch, mein Freund? Meine Preise sind die besten hier in diesem Gewölbe!~ ~Und wie steht es nun mit Euch, meine Freundin? Meine Preise sind die besten hier in diesem Gewölbe!~
+
+@563  = ~Bereitet Euch auf den Tod vor, Monster!~
+
+@564  = ~Die Schmuggler wollen, dass Ihr verschwindet oder sterbt. Es ist Eure Wahl.~
+
+@565  = ~Ich habe mich der Schmuggler schon entledigt, wenn es Euch interessieren sollte.~
+
+@566  = ~Es tut mir Leid, aber mein Stiefvater hat mir verboten, mit Monstern zu sprechen. Wiedersehen.~
+
+@567  = ~Das verwirrt mich jetzt. Versucht Ihr wirklich, Käse zu verkaufen?~
+
+@568  = ~Warum denn nicht? Es geht bestimmt keine Gefahr von einem Monster aus, das versucht, in einem Verlies Käse zu verkaufen.~
+
+@569  = ~Immer mit der Ruhe, kleines Wesen. Ich will hier etwas verkaufen, nicht kämpfen.~
+
+@570  = ~Eure Tricks wirken bei mir nicht, Betrachter! Sterbt!~
+
+@571  = ~Das ist mir ein paar Nummern zu hoch. Ich gehe wieder.~
+
+@572  = ~Seid Ihr sicher? Warum sollte ein Betrachter Käse verkaufen wollen?~
+
+@573  = ~Ich kann es nicht glauben.~
+
+@574  = ~Ich sagte es Euch doch, dass niemand Euren Käse kaufen will! Jedoch bei meinem Tee ist das...~
+
+@575  = ~Pah! Ihr macht wohl Scherze! Den trinkt doch keiner!~
+
+@576  = ~Hmpf! Wir werden sehen.~
+
+@577  = ~Ich bin ein Unternehmer. Ich habe mich hier niedergelassen, weil ich die Freuden meines Käses mit dem Rest der Welt teilen will! Ihr wisst gar nicht, welches wahre Glück es ist, Betrachterkäse erfahren zu dürfen! Und, was sagt Ihr? Seid ihr bereit, Euren Verstand zu erweitern und Euren gereizten Geschmacksknospen eine neue Erfahrung zu gönnen?~
+
+@578  = ~Mensch! Wie könnte irgendjemand ein Angebot wie dieses ablehnen? Schneidet den Käse auf, Blinky!~
+
+@579  = ~Ähhh... Vielleicht später.~
+
+@580  = ~Erfahrt die Macht des Käses! Und während Ihr ihn probiert, könnt Ihr Euch gleich meine anderen Waren ansehen!~
+
+@581  = ~Nun... wenn Ihr müsst.~
+
+@582  = ~Sicherlich! Schneidet den Käse auf, Blinky!~
+
+@583  = ~So verlockend es auch sein mag, ich muss trotzdem weiter. Lebt wohl.~
+
+@584  = ~Das wird langsam ermüdend.~
+
+@585  = ~Da stimme ich nicht mit überein. Vielleicht kann sie eine spezielle Behandlung beruhigen?~
+
+@586  = ~Ich würde sie gut im Auge behalten, wenn Ihr wisst was ich meine. Ein kleiner Garten mit Steinskulpturen... Wundervoll!~
+
+@587  = ~Wir könnten ein Teehaus eröffnen!~
+
+@588  = ~Ihr und Euer Tee...~
+
+@589  = ~Wir fühlen uns jedenfalls ziemlich wohl hier. Ich, für meinen Teil, versuche den Status quo zu erhalten.~
+
+@590  = ~In Ordnung. Das habe ich überhört.~
+
+@591  = ~Ich könnte sie auch für Euch töten.~
+
+@592  = ~Ich glaube, ich werde statt dessen zuerst Euch töten.~
+
+@593  = ~Es ist zwar Eure Entscheidung, aber ich würde nicht für sie arbeiten. Denkt an die Zukunft und alles andere.~
+
+@594  = ~Ja, eine Zukunft zu haben ist erstrebenswerter, als keine zu haben.~
+
+@595  = ~Ich kann nichts anders als zustimmen. Oh, und Ihr seid willkommen, Euch jederzeit anzuschliessen.~
+
+@596  = ~Besonders für eine Tasse Tee.~
+
+@597  = ~Oh, ich bin nicht besonders besorgt. Tötet sie, wenn Ihr wollt, aber Ihr werdet Euch hier keinen Rabatt oder ähnliches einheimsen.~
+
+@598  = ~Da wir gerade von Rabatt reden, Ihr werdet hier kaum einen besseren untoten Kräutertrank bekommen.~
+
+@599  = ~Achtet nicht auf meinen Mitbewerber. Ihr solltet lieber einen meiner Tees kaufen.~
+
+@600  = ~Ich sollte Euch wohl lieber zurück in Eure Gruft schicken, Leichnam!~
+
+@601  = ~Wenn ein Leichnam so etwas anbietet, dann muss es gut sein! Braut mir eine Tasse!~
+
+@602  = ~Tee? Das ist doch nicht Euer Ernst. Ihr seid ein Leichnam. Solltet Ihr nicht etwas morbideres machen?~
+
+@603  = ~Wie unhöflich. Überlegt es Euch gut, bevor Ihr etwas Falsches macht.~
+
+@604  = ~Zeit zu sterben, Ihr alter Knochensack!~
+
+@605  = ~Ich werde in Frieden gehen, dieses Mal.~
+
+@606  = ~Ihr macht Tee? Habt Ihr keine Pläne, die Welt beherrschen zu wollen, oder ähnliches?~
+
+@607  = ~Ah, gut. Ich schätze, nicht jeder hat einen guten Geschmack.~
+
+@608  = ~Bestimmt nicht. Ich habe keine dunklen Ambitionen. Ich möchte lieber, dass andere den guten Geschmack meines patentierten Leichentees erfahren. Er ist aus frischestem unschuldigen Blut gemacht. Nur für meine besten Kunden.~
+
+@609  = ~Wenn Ihr nur davon sprecht, wird mir schon schlecht. Wenn Ihr mich entschuldigen würdet, ich muss mich jetzt übergeben.~
+
+@610  = ~Ihr Monster! Sterbt!~
+
+@611  = ~Hmmm... Ich schätze, ich kann kein Urteil abgeben, bevor ich nicht probiert habe. Gebt mir eine Tasse, Sraxsuth.~
+
+@612  = ~Ah. Gute Neuigkeiten, aber uninteressant. Nun, was ist nun mit diesem Tee?~
+
+@613  = ~Mein Käse!~
+
+@614  = ~Eine Tasse Tee? Ich wäre nicht abgeneigt.~
+
+@615  = ~In Ordnung, dann Käse.~
+
+@616  = ~Diesmal nicht.~
+
+@617  = ~Ah. Hier sind sie. Wartet.. was ist das?~
+
+@618  = ~Was zur Hölle? Randall sagte, dass er Euch selbst ausliefern wollte. Entwaffnet!~
+
+@619  = ~Und er sagte auch, dass er uns sicher zu der Insel bringen würde.~
+
+@620  = ~Wer seid Ihr?~
+
+@621  = ~Dann sollten wir zu Euch gebracht werden?~
+
+@622  = ~Nun, Ihr seid tot.~
+
+@623  = ~Ihr wurdet belogen und ich wurde belogen. Wie üblich.~
+
+@624  = ~Mein Name ist Fren. Und was wir sind... könnt Ihr ja selbst sehen.~
+
+@625  = ~Genau.~
+
+@626  = ~Wartet!~
+
+@627  = ~Ich glaube, dieses Mal haben wir den Mund etwas zu voll genommen.~
+
+@628  = ~Klasse, ein intelligenter Bandit!~
+
+@629  = ~Zu wahr.~
+
+@630  = ~Dieses Mal werdet Ihr mit der Gerechtigkeit konfrontiert, Dieb. Und dieses Mal werdet Ihr nicht davonkommen.~
+
+@631  = ~Oh ja, Jaluk. Das habt Ihr in der Tat.~
+
+@632  = ~Vielleicht sollten wir ja einen Handel machen. Es wird immer schwerer, sich hier zu behaupten. Untote und Golems sind schon schlimm genug, aber da ist noch etwas anderes, das Jagd auf uns macht. Etwas gnadenloses und blutdürstiges; eine Kreatur des puren Bösen...  Und als ob das noch nicht genug wäre, ein Leichnam und ein Betrachter treiben sich hier auch noch herum!~
+
+@633  = ~Wenn Ihr diese beiden für uns aus dem Weg räumt, werde ich Euch gehen lassen und... ja, ich kann 2000 Goldstücke springen lassen - ein kleiner Preis für die Sicherheit. Andererseits fürchte ich, wird es in Gewalt ausarten.~
+
+@634  = ~Aber zuerst würde ich gerne wissen, ob Ihr Lord Leoncourts Truhe habt?~
+
+@635  = ~Na gut. Wo kann ich diesen Leichnam finden?~
+
+@636  = ~Ich kann nicht sagen, dass mir das gefällt, aber ich werde es in Erwägung ziehen.~
+
+@637  = ~Dann wird Gewalt das Mittel sein.~
+
+@638  = ~Nein. Niemand kann mich manipulieren!~
+
+@639  = ~Etwas hat meine Leute in der Nacht angegriffen. Ich konnte das Biest nicht deutlich erkennen, da es aus dem Dunklen angriff und über eine immense Geschwindigkeit verfügte. Es müsste sich aber um eine Art Dämon handeln, wenn man sich seine Stärke und Kraft vor Augen hält. Letzte Nacht schlachtete es die Hälfte meiner Leute ab, bevor es die Truhe nahm und verschwand. Aber genug davon... Was ist jetzt mit dem Leichnam?~
+
+@640  = ~Ich werde Euch helfen. Wo kann ich ihn finden?~
+
+@641  = ~Ich glaube nicht.~
+
+@642  = ~Ausgezeichnet. Folgt der Passage zu Eurer Rechten. Ich werde Eure schnelle Rückkehr erwarten.~
+
+@643  = ~So sei es.~
+
+@644  = ~Nun?~
+
+@645  = ~Ich weiss, dass ihr Lord Leoncourts Truhe habt. Gebt sie mir sofort!~
+
+@646  = ~Sie sind tot.~
+
+@647  = ~Ich habe entschieden, dass ich nicht für Euch arbeiten werde.~
+
+@648  = ~Ich glaube, Ihr seid gefährlicher, Fren. Ihr werdet heute Nacht sterben.~
+
+@649  = ~Ich habe mit ihnen gesprochen und sie erschienen mir ziemlich harmlos. Könnt Ihr denn nicht irgendwie friedlich miteinander koexistieren?~
+
+@650  = ~Ich habe sie noch nicht getötet.~
+
+@651  = ~Ausgezeichnet. Hier ist Eure Belohnung, und bitte, macht Euch auf den Weg.~
+
+@652  = ~Oh! Bevor Ihr geht... im oberen Stockwerk geht Seltsames vor sich. Meine Leute schwören, dass sie vor kurzer Zeit etwas kleines, weisses herumhuschen sahen. Seither haben sie Angst. Seid vorsichtig.~
+
+@653  = ~Nein, wir können nicht. Ihr fangt besser schnellstens damit an, oder soll ich glauben Ihr seid... unwillig.~
+
+@654  = ~Nun, dann fangen wir eben an!~
+
+@655  = ~Unsere Abmachung ist erfüllt. Ihr könnt gehen.~
+
+@656  = ~Sprecht mit dem Boss, Kumpel. Ich habe nichts für Euch.~
+
+@657  = ~Jetzt seid Ihr froh, wie? Schade, dass der Boss Euch gehen lässt. Ihr hättet auch gute Sklaven abgegeben.~
+
+@658  = ~Verschwindet.~
+
+@659  = ~So vieles ist unerledigt... verlassen... verloren...~
+
+@660  = ~Was geht denn hier vor?~
+
+@661  = ~Könnt Ihr mir etwas über diesen Ort erzählen?~
+
+@662  = ~Ich suche nach einer Schatztruhe. Habt Ihr eine gesehen?~
+
+@663  = ~Zeit zu sterben, wer immer Ihr auch seid!~
+
+@664  = ~Ich glaube, ich werde jetzt gehen.~
+
+@665  = ~Ich bin Quagis, einer der Schreiber... der Drachenkult, lange, sehr lange ist es her...~
+
+@666  = ~Nichts. So lange Zeit... Nichts. Die Festung ist verlassen, das Wissen... verloren... Monster... ausser Kontrolle...~
+
+@667  = ~Ich hielt mich im Verborgenen, um zu studieren... zu wachen... aber es ist nutzlos... Diebe, Golems... nutzlos.~
+
+@668  = ~Im oberen Stockwerk... die Ritualkammer. Jetzt ist sie leer... Ein Dämonenmischling lebt jetzt dort. Er kam wie Ihr vom Festland. Und Ihr... wollt Ihr ihn jagen? Egal.~
+
+@669  = ~Schätze gibt es an diesem Ort viele... wie auch Golems. Seid vorsichtig... schleicht... rennt...~
+
+@670  = ~Geht, verlasst mich... alles ist so aussichtslos...~
+
+@671  = ~Hier werdet Ihr fallen...~
+
+@672  = ~Es war hier eine ganze Zeit ziemlich ruhig. Mit Golems und Untoten auf den Fersen, kann ich verstehen, warum die Leute sich fürchten. überhaupt hierher zu kommen. Aber dann kamen diese Schmuggler an und erkämpften sich hier für sich einen Platz. Wenn sie nur nicht so hoffnunglos rücksichtslos wären...~
+
+@673  = ~Des anderen Tages sah ich hier einen Hasen. Ein süsse kleine Kreatur, doch seine Augen waren... seltsam. Und er sprach mit sich selbst. Wenn ich an Eurer Stelle wäre, würde ich mir das ansehen.~
+
+@674  = ~Dann sind mit Euch noch andere Abenteurer angekommen? Wirklich? Nun, ich hoffe, dass Ihr ihnen diesen Ort empfehlen werdet! Das heisst, wenn sie hier überleben.~
+
+@675  = ~Alos, ich würde es mit Blinkys Käse versuchen. Er hat experimentiert.~
+
+@676  = ~Mein Leben nach dem Tod hat sich doch als ziemlich amüsant erwiesen, oder?~
+
+@677  = ~Blinky und ich gehen zurück...~
+
+@678  = ~Ich würde ja gerne noch etwas über Amn und Tethyr plaudern, aber ich war schon seit über einem Jahrhundert nicht mehr dort. Tsk, tsk. Ich muss mir wohl öfter die Beine vertreten.~
+
+@679  = ~Versucht etwas von dem Kräutertrank. Ich bin ziemlich davon begeistert.~
+
+@680  = ~Seht Ihr? Ich sagte Euch doch, dass kein besseres Angebot finden würdet!~
+
+@681  = ~Hört auf zu winken, Blinky! Ist ja schon gut, ich werde Euren Käse erwähnen. Oh, und dass Ihr auch noch eine Menge anderer Dinge zu verkaufen habt. Wo bewahrt Ihr sie eigentlich auf? Ähm, ich will es gar nicht wissen.~
+
+@682  = ~Vielleicht noch eine Packung Tee zum mitnehmen? Oder zwei? Oder vielleicht... drei?~
+
+@683  = ~Trinkt mehr Tee.~

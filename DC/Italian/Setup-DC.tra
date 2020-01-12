@@ -1,0 +1,137 @@
+@0 = ~Dungeon Crawl~
+@1 = ~Arudin~
+@2 = ~Beatrice~
+@3 = ~Castor~
+@4 = ~Durnkrag~
+@5 = ~Khaggoth~
+@6 = ~Ganelon~
+@7 = ~Mac~
+@8 = ~Remus~
+@9 = ~Teagan~
+@10 = ~Grudin~
+@11 = ~Capitano Randall~
+@12 = ~Lepus~
+@13 = ~Lord Thaddeus Leoncourt~
+@14 = ~Fren~
+@15 = ~Contrabbandiere~
+@16 = ~Blinky~
+@17 = ~Sraxsuth~
+@18 = ~Quagis~
+@19 = ~Cinghia del Potere Orchesco~
+@20 = ~Cinghia del Potere Orchesco:
+Questa semplice cintura dona a colui che la indossa la forza di un orco, ma non lo fa diventare come lui e non gli dà la sua gigantesca stazza. Molti impudenti guerrieri sono stati sorpresi da molti piccoli avversari che possedevano una forza non comune. E molto spesso il motivo era che indossavano una cintura come questa.
+
+STATISTICHE:
+
+Forza:  portata a 18/00
+Peso:  2
+Non utilizzabile da: 
+ Ladro
+ Mago~
+@21 = ~ Bracciali di difesa CA +2~
+@22 = ~I bracciali sono spesse fasce di metallo o cuoio che vengono fissate, allacciate o legate all'avambraccio di un personaggio. Di solito la magia che viene instillata nei bracciali è valida solo durante un combattimento, in quanto la maggior parte dei bracciali serve a proteggere colui che li indossa dalle ferite o a migliorare le probabilità di colpire un nemico. Esistono delle eccezioni, sebbene questi oggetti particolari siano molto rari. 
+
+STATISTICHE:
+
+Bonus +2 alla CA
+
+Peso: 2~
+@23 = ~Guanti del Colpo Pesante~
+@24 = ~I guanti servono da protezione per le mani. Possono essere di pelle, di piastre o di maglia. Ogni corazza completa dovrebbe includere guanti del tipo più appropriato. I guanti magici tendono a essere più fini, leggeri e più facilmente indossabili delle varietà normali.
+
+STATISTICHE:
+  Danno:  bonus +2
+  Peso:  2~
+@25 = ~Abito del Potere Arcano~
+@26 = ~Creato dai maghi anziani di Netheril, questo tipo di abito é raro e difficile da trovare. Quest'abito in particolare dà a chi lo indossa immunità agli incantamenti di silenzio, e migliora le capacità di lanciare incantesimi.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+Vocalizzare
+Migliora le velocità di lancio di 3
+Peso:  3
+Utilizzabile solo da:
+Mago (singolo, duale, e multiclasse)~
+@27 = ~Alabarda Infuocata +3~
+@28 = ~I benefici riguardanti quest'arma sono facilmente visibili; è straordinariamente curata e un getto di fiamme si sprigiona a ogni colpo, bruciando l'obiettivo oltre a infliggere il normale danno. E' ottima per uccidere i Troll, nonostante non sia stata ancora mai menzionata nelle canzoni o leggende. 
+
+STATISTICHE:
+
+Abilità di Combattimento: 1 danno extra da fuoco
+THACO: bonus +3 
+Danno: 1D10 + 3
+Tipo di danno: da taglio
+Peso: 10
+Fattore Velocità: 5
+Tipo di Competenza: Alabarda
+Tipo: a due mani
+Richiede: 11 alla Forza
+Non utilizzabile da:
+ Druido
+ Chierico
+ Mago
+ Ladro~
+@29 = ~Elmo della Difesa CA +1~
+@30 = ~Apprezzato sia per le sue nobili origini che per i benefici che dà a chi lo indossa, quest'Elmo, in origine, voleva semplicemente essere un dono. Quando fu creato non c'era né crisi di mano d'opera, né il pericolo imminente di qualche malvagio intendimento di rovesciare qualche città o terra; ma solo di un desiderio di un amico di dare un regalo ad un altro amico. Poteva facilmente essere anche stato un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando debbono fare dei regali. L'Elmo ha visto molte grandi battaglie da quando è stato creato, ma il motivo per cui è ricordato è dato dalla sua semplice virtù interiore.
+
+STATISTICHE:
+
+Bonus +1 alla CA
+
+Speciale: Protegge contro colpi critici 
+Peso: 3
+Non utilizzabile da:
+Mago
+Bardo
+Ladro~
+@31 = ~Anello di Difesa~
+@32 = ~Apprezzato sia per le sue nobili origini che per i benefici che dà a chi lo indossa, questo Anello, in origine, voleva semplicemente essere un dono. Quando fu creato non c'era né crisi di mano d'opera, né il pericolo imminente di qualche malvagio intendimento di rovesciare qualche città o terra; ma solo di un desiderio di un amico di dare un regalo ad un altro amico. Poteva facilmente essere anche stato un buon libro o una bottiglia di vino, ma gli avventurieri sono molto pratici quando debbono fare dei regali. L'Anello ha visto molte grandi battaglie da quando è stato creato, ma il motivo per cui è ricordato è dato dalla sua semplice virtù interiore.
+
+STATISTICHE:
+
+Classe Armatura: bonus +1 
+Tiri Salvezza: bonus +1~
+@33 = ~La Casa del Té di Sraxsuth~
+@34 = ~Té Nero Amaro~
+@35 = ~Té Classico del Non Morto~
+@36 = ~Té Regale di Amn~
+@37 = ~Infuso di Erbe~
+@38 = ~Tè di Prima Qualità del Lich~
+@39 = ~l'Angolo di Blinky~
+@10001 = ~La Cassa del Tesoro di Lord Leoncourt.
+
+Oggi ho incontrato Durnkrag, un paladino nano, e la sua banda di compagni avventurieri al Diadema di Rame. Sono alla ricerca di una cassa del tesoro che è stata rubata a Lord Thaddeus Leoncourt di Baldur's Gate. Un ricettatore chiamato Grudin potrebbe sapere qualcosa, ma hanno delle difficoltà nel localizzarlo. Forse altri ricettatori potrebbero sapere dove si trova. Una volta localizzato, dovrò tornare da Durnkrag.~
+@10002 = ~La Cassa del Tesoro di Lord Leoncourt.
+
+Questa notte ho finalmente incontrato Grudin. Sfortunatamente, anche un'altro gruppo voleva incontrarlo, si chiama la Banda Oscura. Hanno ucciso Grudin appena mi sono avvicinato a loro. Grudin ha fatto in tempo solo a nominare un certo Capitano Randall, prima che fosse ucciso dalla Banda Oscura. Ora posso ritornare al Diadema di Rame. Speriamo che quello che ho saputo sia sufficiente per Durnkrag.~
+@10003 = ~La Cassa del Tesoro di Lord Leoncourt.
+
+Una volta ascoltata l'informazione, Durnkrag ed i suoi amici, che si fanno chiamare gli Striscianti dei Sotterranei, sono andati immediatamente in direzione dei Moli, e mi ha invitato a seguirli.~
+@10004 = ~La Cassa del Tesoro di Lord Leoncourt.
+
+Appena arrivato ai Moli, la Banda Oscura e gli Striscianti dei Sotterranei erano serrati per un combattimento mortale. Ho scelto di aiutare Durnkrag, e la Banda Oscura è fuggita. Ora bisogna parlare con il Capitano Randall...~
+@10005 = ~La Cassa del Tesoro di Lord Leoncourt.
+
+Appena arrivato ai Moli, la Banda Oscura e gli Striscianti dei Sotterranei erano serrati per un combattimento mortale. Ho scelto di aiutare Ganelon, il capo della Banda Oscura, e gli Striscianti dei Sotterranei sono fuggiti. Ora bisogna parlare con il Capitano Randall...~
+@10006 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Il Capitano Randall ci ha chiesto un pagamento di duemila monete d'oro per il viaggio. Se voglio andare dovrei pagarne la metà: mille monete d'oro.~
+@10007 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Ci siamo svegliati su un pavimento di un freddo sotterraneo. Apparentemente, Randall ci ha drogati, con l'intento di consegnarci come schiavi ai contrabbandieri locali. Abbiamo deciso di dividerci, trovare la cassa di Lord Leoncourt ed andarcene il più presto possibile.~
+@10008 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Una strana creatura, metà coniglio, metà demone chiamata Lepus, con un'insolita simpatia per i pantaloni, era in agguato, con la cassa, nella camera del rituale. L'abbiamo sconfitta, e Ganelon ci ha teletrasportato indietro ad Athkatla. Tuttavia, invece del tesoro, abbiamo scoperto un paio di Pantaloni d'Oro, e Ganelon è andato via disgustato e deluso.~
+@10009 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Una strana creatura, metà coniglio, metà demone chiamata Lepus, con un'insolita simpatia per i pantaloni, era in agguato, con la cassa, nella camera del rituale. L'abbiamo sconfitta, e Ganelon ci ha teletrasportato indietro ad Athkatla. Tuttavia, invece del tesoro, abbiamo scoperto un paio di Pantaloni D'Oro, così ho deciso di attaccare la Banda Oscura.~
+@10010 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Una strana creatura, metà coniglio, metà demone chiamata Lepus, con un'insolita simpatia per i pantaloni, era in agguato, con la cassa, nella camera del rituale. L'abbiamo sconfitta, e Arudin ci ha teletrasportato indietro ad Athkatla. Tuttavia, invece del tesoro, abbiamo scoperto un paio di Pantaloni d'Oro, così ho deciso di attaccare gli Striscianti dei Sotterranei.~
+@10011 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Una strana creatura, metà coniglio, metà demone chiamata Lepus, con un'insolita simpatia per i pantaloni, era in agguato, con la cassa, nella camera del rituale. L'abbiamo sconfitta, e Arudin ci ha teletrasportato indietro ad Athkatla. Lord Leoncourt ci sta aspettando al Diadema di Rame, e gli Striscianti dei Sotterranei ci stanno andando.~
+@10012 =  ~La Cassa del Tesoro di Lord Leoncourt.
+
+Lord Leoncourt è stato molto contento di riavere indietro i suoi Pantaloni preferiti, e noi abbiamo ricevuto la nostra ricompensa: diecimila monete d'oro, da dividere in parti uguali tra me e la banda di Durnkrag. Questa avventura è finalmente finita.~

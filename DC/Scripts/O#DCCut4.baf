@@ -1,0 +1,19 @@
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+Wait(1)
+FadeToColor([20.0],0)
+Wait(1)
+ActionOverride("O#Arudin",DestroySelf())
+ActionOverride("O#Bea",DestroySelf())
+ActionOverride("O#Castor",DestroySelf())
+ActionOverride("O#Durn",DestroySelf())
+ActionOverride("O#Khagg",DestroySelf())
+MultiPlayerSync()
+Wait(1)
+FadeFromColor([20.0],0)
+Wait(1)
+EndCutSceneMode()
+END

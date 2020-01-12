@@ -1,0 +1,23 @@
+IF
+Global("O#DCReveal0400","AR0400",0)
+THEN
+RESPONSE #100
+SetGlobal("O#DCReveal0400","AR0400",1)
+Explore()
+Continue()
+END
+
+IF
+Global("O#DCContact","GLOBAL",0)
+Global("O#DCQuest","GLOBAL",3)
+TimeOfDay(NIGHT)
+THEN
+RESPONSE #100
+CreateCreature("O#Ganel",[160.1660],3)
+CreateCreature("O#Mac",[150.1690],8)
+CreateCreature("O#Remus",[140.1630],0)
+CreateCreature("O#Teagan",[130.1690],9)
+CreateCreature("O#Grudin",[135.1650],0)
+SetGlobal("O#DCContact","GLOBAL",1)
+Continue()
+END

@@ -1,0 +1,7 @@
+IF
+Global("O#DCQuagisSpawned","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Quagis",[1327.1039],5)
+SetGlobal("O#DCQuagisSpawned","GLOBAL",1)
+END

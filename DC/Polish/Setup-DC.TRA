@@ -1,0 +1,169 @@
+@0     = ~Dungeon Crawl~ 
+@1     = ~Arudin~
+@2     = ~Beatrice~ 
+@3     = ~Castor~
+@4     = ~Durnkrag~ 
+@5     = ~Khaggoth~
+@6     = ~Ganelon~
+@7     = ~Mac~ 
+@8     = ~Remus~
+@9     = ~Teagan~ 
+@10    = ~Grudin~
+@11    = ~Kapitan Randall~
+@12    = ~Lepus~ 
+@13    = ~Lord Thaddeus Leoncourt~
+@14    = ~Fren~ 
+@15    = ~Przemytnik~
+@16    = ~Blinky~
+@17    = ~Sraxsuth~
+@18    = ~Quagis~ 
+@19    = ~Pas si³y ogra~
+@20    = ~Pas si³y ogra
+Ten zwyczajnie wygl¹daj¹cy pas czyni nosz¹c¹ go osobê siln¹ jak ogr, ale nie zwiêksza jej rozmiarów. Wielu aroganckich wojowników zosta³o zaskoczonych przez znacznie mniejszych przeciwników o powa¿nej sile. Doœæ czêsto przyczyn¹ tego jest pas taki jak ten.
+
+PARAMETRY:
+
+Si³a: 18/00
+Waga: 2
+Nie mo¿e u¿ywaæ:
+ Z³odziej
+ Mag
+~ 
+@21    = ~Bransolety ochrony KP 2~ 
+@22    = ~Bransolety s¹ pasami metalu lub skóry, które nak³ada siê na przedramiona lub na nich zawi¹zuje. Zwykle magia, któr¹ bransolety s¹ nasycane pomaga tylko podczas walki, gdy¿ wiêkszoœæ z nich chroni nosz¹cego przed obra¿eniami lub zwiêksza szansê trafienia przeciwnika. Od tej regu³y istniej¹ wyj¹tki, chocia¿ tak dzia³aj¹ce bransolety nale¿¹ do rzadkoœci.
+
+PARAMETRY:
+
++ 2 do Klasy Pancerza
+
+Waga: 2
+~
+@23    = ~Rêkawice silnego uderzenia~ 
+@24    = ~Rêkawice bojowe mog¹ byæ zrobione ze skóry, metalowych p³ytek b¹dŸ kolczugi. Do ka¿dego zestawu zbroi przewidziana jest mo¿liwoœæ do³¹czenia rêkawic odpowiedniego typu. Magiczne rêkawice s¹ na ogó³ cieñsze, l¿ejsze i ³atwiejsze do noszenia ni¿ ich zwyk³e odpowiedniki.
+
+PARAMETRY:
+
+Specjalne:
+ Obra¿enia: +2
+
+Waga: 2
+~
+@25    = ~Szata tajemnej mocy~
+@26    = ~Stworzone przez staro¿ytnych magów z Netheril, tego rodzaju szaty s¹ rzadkie i trudne do zdobycia. Ta konkretna szata zapewnia niewra¿liwoœæ na czary uciszaj¹ce oraz poprawia prêdkoœæ rzucania zaklêæ.
+
+PARAMETRY:
+
+Specjalne:
+ Ug³osowienie
+ Poprawia prêdkoœæ rzucania czaru o 3
+
+Waga: 3
+
+Mo¿e u¿ywaæ:
+Mag (jedno-, dwu- lub wieloklasowiec)
+~
+@27    = ~Halabarda Spiekoty +3~
+@28    = ~£atwo dostrzec specjalne w³aœciwoœci tej broni; jest wyj¹tkowo celna i przy ka¿dym ciosie pojawia siê na niej jêzyk ognia, który przypala cel. To efektywne narzêdzie do zabijania trolli, choæ nie wspomina siê o tym w pieœniach i legendach.
+
+PARAMETRY:
+
+Obra¿enia: 1K10 +3, +1 pkt obra¿eñ od ognia
+TraK0: +3
+Typ obra¿eñ: sieczne
+Waga: 10
+OpóŸnienie: 5
+Umagicznienie: +3
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 13
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag
+ Z³odziej
+~
+@29    = ~He³m Obrony +1~
+@30    = ~Ten he³m - ceniony za szlacheckie "pochodzenie" oraz za moce, którymi obdarza w³aœciciela - mia³ byæ zwyk³ym darem. W tych dniach nie zbli¿a³o siê ¿adne niebezpieczeñstwo czy z³o, które trzeba by³oby pokonaæ. Po prostu jeden przyjaciel zapragn¹³ wrêczyæ dar innemu. A prezentem mog³aby równie dobrze byæ ciekawa ksiêga lub butla wina. Niestety, poszukiwacze przygód zwykli obdarzaæ siê bardziej praktycznymi darami. He³m bra³ udzia³ w wielu bitwach i zawsze pamiêtano o jego skutecznoœci.
+
+PARAMETRY:
+
+Specjalne:
+ +1 do Klasy Pancerza
+ Chroni przed trafieniami krytycznymi
+Waga: 3
+
+Nie mo¿e u¿ywaæ:
+ Mag
+ Bard
+ Z³odziej
+~
+@31    = ~Pierœcieñ Obrony~
+@32    = ~Ten pierœcieñ - ceniony za szlacheckie "pochodzenie" oraz za moce, którymi obdarza w³aœciciela - mia³ byæ zwyk³ym darem. W tych dniach nie zbli¿a³o siê ¿adne niebezpieczeñstwo czy z³o, które trzeba by³oby pokonaæ. Po prostu jeden przyjaciel zapragn¹³ wrêczyæ dar innemu. A prezentem mog³aby równie dobrze byæ ciekawa ksiêga lub butla wina. Niestety, poszukiwacze przygód zwykli obdarzaæ siê bardziej praktycznymi darami. Pierœcieñ bra³ udzia³ w wielu bitwach i zawsze pamiêtano o jego skutecznoœci.
+
+PARAMETRY:
+
+Klasa Pancerza +1
+Rzuty obronne +1
+
+~
+@33    = ~Herbaciarnia Sraxsutha~
+@34    = ~Gorzka czarna herbata~
+@35    = ~Klasyczna herbata nieumar³ych~
+@36    = ~Amnijska herbata królewska~
+@37    = ~Napar zio³owy~
+@38    = ~Wyborowa herbata lisza~
+@39    = ~Zak¹tek Blinky'ego~
+@10001 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dzisiaj w Miedzianym Diademie spotka³em krasnoludzkiego paladyna Durnkraga i jego dru¿ynê poszukiwaczy przygód. Szukaj¹ skrzyni ze skarbem, która zosta³a skradziona Lordowi Thaddeusowi Leoncourt z Wrót Baldura. Paser o imieniu Grudin powinien coœ wiedzieæ o kradzie¿y, jednak Durnkrag i jego ludzie maj¹ trudnoœci z jego odnalezieniem. Prawdopodobnie inni paserzy z Athkatli mog¹ posiadaæ informacje o miejscu pobytu Grudina. Je¿eli uda mi siê go odszukaæ, powinienem wróciæ do Durnkraga.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dzisiaj w Miedzianym Diademie spotka³am krasnoludzkiego paladyna Durnkraga i jego dru¿ynê poszukiwaczy przygód. Szukaj¹ skrzyni ze skarbem, która zosta³a skradziona Lordowi Thaddeusowi Leoncourt z Wrót Baldura. Paser o imieniu Grudin powinien coœ wiedzieæ o kradzie¿y, jednak Durnkrag i jego ludzie maj¹ trudnoœci z jego odnalezieniem. Prawdopodobnie inni paserzy z Athkatli mog¹ posiadaæ informacje o miejscu pobytu Grudina. Je¿eli uda mi siê go odszukaæ, powinnam wróciæ do Durnkraga.~
+@10002 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Tej nocy w koñcu natkn¹³em siê na Grudina. Niestety ta sama sztuka uda³a siê dru¿ynie, która okreœla siê mianem Sfory Cienia. Zabili Grudina kiedy nadchodzi³em, jednak przed œmierci¹ zd¹¿y³ on wspomnieæ o jakimœ kapitanie Randallu. Powinienem teraz wróciæ do Miedzianego Diademu maj¹c nadziejê, ¿e ta informacja wystarczy Durnkragowi.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Tej nocy w koñcu natknê³am siê na Grudina. Niestety ta sama sztuka uda³a siê dru¿ynie, która okreœla siê mianem Sfory Cienia. Zabili Grudina kiedy nadchodzi³am, jednak przed œmierci¹ zd¹¿y³ on wspomnieæ o jakimœ kapitanie Randallu. Powinnam teraz wróciæ do Miedzianego Diademu maj¹c nadziejê, ¿e ta informacja wystarczy Durnkragowi.~
+@10003 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Na wieœæ o œmierci Grudina oraz o moim spotkaniu ze Sfor¹ Cienia dru¿yna Durnkraga bez zw³oki wyruszy³a do portu. Durnkrag zaproponowa³, bym uda³ siê tam razem z nimi.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Na wieœæ o œmierci Grudina oraz o moim spotkaniu ze Sfor¹ Cienia dru¿yna Durnkraga bez zw³oki wyruszy³a do portu. Durnkrag zaproponowa³, bym uda³a siê tam razem z nimi.~
+@10004 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Po przybyciu do doków zasta³em tam obie grupy: Sforê Cienia i dru¿ynê Durnkraga, kiedy gotowa³y siê do walki na œmieræ i ¿ycie. Zdecydowa³em siê pomóc Durnkragowi, zaœ Sfora Cienia wola³a zrejterowaæ z pola bitwy. Teraz musimy porozmawiaæ z kapitanem Randallem...~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Po przybyciu do doków zasta³am tam obie grupy: Sforê Cienia i dru¿ynê Durnkraga, kiedy gotowa³y siê do walki na œmieræ i ¿ycie. Zdecydowa³am siê pomóc Durnkragowi, zaœ Sfora Cienia wola³a zrejterowaæ z pola bitwy. Teraz musimy porozmawiaæ z kapitanem Randallem...~
+@10005 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Po przybyciu do doków zasta³em tam obie grupy: Sforê Cienia i dru¿ynê Durnkraga, kiedy gotowa³y siê do walki na œmieræ i ¿ycie. Zdecydowa³em siê pomóc Ganelonowi, przywódcy Sfory Cienia, zaœ Durnkrag i jego dru¿yna uciekli z pola bitwy. Teraz musimy porozmawiaæ z kapitanem Randallem...~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Po przybyciu do doków zasta³am tam obie grupy: Sforê Cienia i dru¿ynê Durnkraga, kiedy gotowa³y siê do walki na œmieræ i ¿ycie. Zdecydowa³am siê pomóc Ganelonowi, przywódcy Sfory Cienia, zaœ Durnkrag i jego dru¿yna uciekli z pola bitwy. Teraz musimy porozmawiaæ z kapitanem Randallem...~
+@10006 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Kapitan Randall za¿¹da³ dwóch tysiêcy sztuk z³ota za przewiezienie wszystkich na Wyspê Smoczego K³a. Je¿eli chcê tam p³yn¹æ, muszê pokryæ po³owê kosztów: tysi¹c sztuk z³ota.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Kapitan Randall za¿¹da³ dwóch tysiêcy sztuk z³ota za przewiezienie wszystkich na Wyspê Smoczego K³a. Je¿eli chcê tam p³yn¹æ, muszê pokryæ po³owê kosztów: tysi¹c sztuk z³ota.~
+@10007 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Obudziliœmy siê wszyscy na zimnej posadzce w lochu. Najwidoczniej Randall czymœ nas odurzy³ z zamiarem sprzedania nas miejscowym handlarzom niewolników. Postanowiliœmy siê rozdzieliæ, by jak najszybciej znaleŸæ skrzyniê Lorda Leoncourt i sposób na wydostanie siê z tego miejsca.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Obudziliœmy siê wszyscy na zimnej posadzce w lochu. Najwidoczniej Randall czymœ nas odurzy³ z zamiarem sprzedania nas miejscowym handlarzom niewolników. Postanowiliœmy siê rozdzieliæ, by jak najszybciej odnaleŸæ skrzyniê Lorda Leoncourt i sposób na wydostanie siê z tego miejsca.~
+@10008 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dziwne stworzenie o imieniu Lepus, w po³owie królik, w po³owie demon, przejawiaj¹ce osobliwe upodobanie do pantalonów, ukrywa³o siê ze skrzyni¹ w sali rytualnej. Po jego pokonaniu Ganelon teleportowa³ nas z powrotem do Athkatli. W skrzyni zamiast spodziewanego skarbu odkryliœmy parê z³otych pantalonów. Ganelon nawet nie próbowa³ ukryæ niesmaku i oddali³ siê w poœpiechu.~
+@10009 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dziwne stworzenie o imieniu Lepus, w po³owie królik, w po³owie demon, przejawiaj¹ce osobliwe upodobanie do pantalonów, ukrywa³o siê ze skrzyni¹ w sali rytualnej. Po jego pokonaniu Ganelon teleportowa³ nas z powrotem do Athkatli. W skrzyni zamiast spodziewanego skarbu odkryliœmy parê z³otych pantalonów, wobec czego postanowi³em zaatakowaæ Ganelona i jego kompanów.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dziwne stworzenie o imieniu Lepus, w po³owie królik, w po³owie demon, przejawiaj¹ce osobliwe upodobanie do pantalonów, ukrywa³o siê ze skrzyni¹ w sali rytualnej. Po jego pokonaniu Ganelon teleportowa³ nas z powrotem do Athkatli. W skrzyni zamiast spodziewanego skarbu odkryliœmy parê z³otych pantalonów, wobec czego postanowi³am zaatakowaæ Ganelona i jego kompanów.~
+@10010 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dziwne stworzenie o imieniu Lepus, w po³owie królik, w po³owie demon, przejawiaj¹ce osobliwe upodobanie do pantalonów, ukrywa³o siê ze skrzyni¹ w sali rytualnej. Po jego pokonaniu Arudin teleportowa³ nas z powrotem do Athkatli. W skrzyni zamiast spodziewanego skarbu odkryliœmy parê z³otych pantalonów, wobec czego postanowi³em zaatakowaæ Durnkraga i jego kompanów.~ ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dziwne stworzenie o imieniu Lepus, w po³owie królik, w po³owie demon, przejawiaj¹ce osobliwe upodobanie do pantalonów, ukrywa³o siê ze skrzyni¹ w sali rytualnej. Po jego pokonaniu Arudin teleportowa³ nas z powrotem do Athkatli. W skrzyni zamiast spodziewanego skarbu odkryliœmy parê z³otych pantalonów, wobec czego postanowi³am zaatakowaæ Durnkraga i jego kompanów.~
+@10011 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Dziwne stworzenie o imieniu Lepus, w po³owie królik, w po³owie demon, przejawiaj¹ce osobliwe upodobanie do pantalonów, ukrywa³o siê ze skrzyni¹ w sali rytualnej. Po jego pokonaniu Arudin teleportowa³ nas z powrotem do Athkatli. Lord Leoncourt oczekuje nas w Miedzianym Diademie, a Durnkrag i jego dru¿yna ju¿ tam siê udali.~
+@10012 = ~Skrzynia ze skarbem Lorda Leoncourt.
+
+Lord Leoncourt by³ wyraŸnie zadowolony z odzyskania ulubionych pantalonów, a my otrzymaliœmy nagrodê: dziesiêæ tysiêcy sztuk z³ota do równego podzia³u z dru¿yn¹ Durnkraga. W ten sposób zakoñczy³a siê nasza przygoda.~

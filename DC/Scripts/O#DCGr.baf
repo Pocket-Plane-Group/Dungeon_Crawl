@@ -1,0 +1,20 @@
+IF
+AttackedBy([GOODCUTOFF],DEFAULT)
+Allegiance(Myself,NEUTRAL)
+Global("O#DCGoodGuyAttacked","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("O#DCGoodGuyAttacked","LOCALS",1)
+SetGlobal("O#DCPCAttackedGoodGuys","GLOBAL",1)
+Enemy()
+END
+
+IF
+Global("O#DCPCAttackedGoodGuys","GLOBAL",1)
+Allegiance(Myself,NEUTRAL)
+Global("O#DCGoodGuyAttacked","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("O#DCGoodGuyAttacked","LOCALS",1)
+Enemy()
+END

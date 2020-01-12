@@ -1,0 +1,7 @@
+IF
+Global("O#DCQuest","GLOBAL",12)
+THEN
+RESPONSE #100
+SetGlobal("O#DCQuest","GLOBAL",13)
+CreateCreature("O#Lepus",[586.360],0)
+END

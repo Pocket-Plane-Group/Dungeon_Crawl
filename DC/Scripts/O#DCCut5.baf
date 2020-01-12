@@ -1,0 +1,18 @@
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+Wait(1)
+FadeToColor([20.0],0)
+Wait(1)
+ActionOverride("O#Ganel",DestroySelf())
+ActionOverride("O#Mac",DestroySelf())
+ActionOverride("O#Remus",DestroySelf())
+ActionOverride("O#Teagan",DestroySelf())
+MultiPlayerSync()
+Wait(1)
+FadeFromColor([20.0],0)
+Wait(1)
+EndCutSceneMode()
+END

@@ -1,0 +1,45 @@
+@20    = ~Pas si³y ogra:
+Ten zwyczajnie wygl¹daj¹cy pas czyni nosz¹c¹ go osobê siln¹ jak ogr, ale nie zwiêksza jej rozmiarów. Wielu aroganckich wojowników zosta³o zaskoczonych przez znacznie mniejszych przeciwników o powa¿nej sile. Doœæ czêsto przyczyn¹ tego jest pas taki jak ten.
+
+PARAMETRY:
+
+Si³a: 18/00
+Waga: 2
+~ 
+@26    = ~Stworzone przez staro¿ytnych magów z Netheril, tego rodzaju szaty s¹ rzadkie i trudne do zdobycia. Ta konkretna szata zapewnia niewra¿liwoœæ na czary uciszaj¹ce oraz poprawia prêdkoœæ rzucania zaklêæ.
+
+PARAMETRY:
+
+Specjalne:
+Odpornoœæ na uciszenie
+Szybkoœæ rzucania czarów: +3
+
+Waga: 3
+
+~
+@28    = ~£atwo dostrzec specjalne w³aœciwoœci tej broni; jest wyj¹tkowo dok³adna i przy ka¿dym ciosie pojawia siê na nim jêzyk ognia, który przypalaj¹ cel. To efektywne narzêdzie do zabijania trolli, choæ nie wspomina siê o tym w pieœniach i legendach.
+
+PARAMETRY:
+
+Specjalne:
+Trafiony cel otrzymuje dodatkowo 1 pkt obra¿eñ od ognia
+Obra¿enia: 1k10 + 3
+TraKO: +3
+Typ obra¿eñ: sieczne
+Waga: 10
+OpóŸnienie: 5
+Rodzaj bieg³oœci: halabarda
+Typ broni: 2-rêczna
+Wymagana si³a: 11
+
+~
+@30    = ~Ten he³m - ceniony za szlacheckie "pochodzenie" oraz za moce, którymi obdarza w³aœciciela - mia³ byæ zwyk³ym darem. W tych dniach nie zbli¿a³o siê ¿adne niebezpieczeñstwo czy z³o, które trzeba by³oby pokonaæ. Po prostu jeden przyjaciel zapragn¹³ wrêczyæ dar innemu. A prezentem mog³aby równie dobrze byæ ciekawa ksiêga lub butla wina. Niestety, poszukiwacze przygód zwykli obdarzaæ siê bardziej praktycznymi darami. He³m bra³ udzia³ w wielu bitwach i zawsze pamiêtano o jego skutecznoœci.
+
+PARAMETRY:
+
+Specjalne:
+Klasa pancerza +1
+Chroni przed trafieniami krytycznymi
+Waga: 3
+
+~

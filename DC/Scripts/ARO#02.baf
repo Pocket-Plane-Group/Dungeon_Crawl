@@ -1,0 +1,13 @@
+IF
+Global("O#DCGuysSpawned","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Srax",[1904.780],2)
+CreateCreature("O#Blinky",[1904.722],2)
+CreateCreature("O#Smug",[842.1042],0)
+CreateCreature("O#Thug",[780.984],0)
+CreateCreature("O#Thug",[719.997],0)
+CreateCreature("O#Thug",[792.908],0)
+CreateCreature("O#Thug",[961.998],0)
+SetGlobal("O#DCGuysSpawned","GLOBAL",1)
+END

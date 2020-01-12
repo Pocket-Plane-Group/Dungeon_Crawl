@@ -1,0 +1,135 @@
+@0 = ~Dungeon Crawl~
+@1 = ~Arudin~
+@2 = ~Beatrice~
+@3 = ~Castor~
+@4 = ~Durnkrag~
+@5 = ~Khaggoth~
+@6 = ~Ganelon~
+@7 = ~Mac~
+@8 = ~Remus~
+@9 = ~Teagan~
+@10 = ~Grudin~
+@11 = ~Kapitän Randall~
+@12 = ~Lepus~
+@13 = ~Lord Thaddeus Leoncourt~
+@14 = ~Fren~
+@15 = ~Schmuggler~
+@16 = ~Blinky~
+@17 = ~Sraxsuth~
+@18 = ~Quagis~
+@19 = ~Ogerkraftgürtel~
+@20 = ~Ogerkraftgürtel:
+Dieser unscheinbare Gürtel macht dessen Träger so stark wie einen Oger, verändert dessen Grösse jedoch nicht. Viele grosse Krieger wurden schon von sehr viel kleineren Gegnern mit beeindruckender Stärke überrascht. Oft war solch ein Gürtel der Grund dafür.
+
+EIGENSCHAFTEN:
+
+Stärke wird auf 18/00 gesetzt
+Gewicht:  2
+Kann nicht verwendet werden von: 
+ Dieben
+ Magiern~
+@21 = ~Armbänder der Verteidigung Rüstungsklasse +2~
+@22 = ~Armbänder sind dicke Bänder aus Metall oder Leder, die mit Gurten oder Riemen an den Unterarmen des Charakters befestigt werden. In der Regel kommt die magische Kraft, die die Armbänder besitzen, nur im Kampf zum Tragen, da die meisten Armbänder den Träger vor Verletzungen schützen oder seine Chancen, den Gegner zu treffen, erhöhen. Es gibt jedoch Ausnahmen, auch wenn diese höchst selten sind.    
+
+EIGENSCHAFTEN:
+
++2 Bonus zur Rüstungsklasse
+
+Gewicht: 2~
+@23 = ~Armpanzer des schweren Schlages~
+@24 = ~Armpanzer sind Panzerungen für Handschuhe. Sie können aus Leder, Metallplatten oder Kettenringen bestehen. Jede Art von Rüstung ist dafür vorgesehen und kann mit ihnen kombiniert werden. Magische Armpanzer sind meist feiner gearbeitet, leichter und einfacher zu tragen als die normalen Ausführungen.
+
+EIGENSCHAFTEN:
+  Schaden:  +2 Bonus
+  Gewicht:  2~
+@25 = ~Robe der arkanen Macht~
+@26 = ~Hergestellt von den berühmten Magiern aus Netheril, sind solche Roben selten und schwer zu finden. Diese spezielle Robe verleiht ihrem Träger Immunität gegen Verstummungszauber und erhöht die Geschwindigkeit beim Zaubern.
+
+EIGENSCHAFTEN:
+
+Immun gegen Verstummung
+Erhöht die Geschwindigkeit beim Zaubern um 3
+Gewicht:  3
+Kann nur verwendet werden von:
+Magiern (Einzel-, Doppel- und Mehrklassig)~
+@27 = ~Glühende Hellebarde +3~
+@28 = ~Die Vorteile, die diese Waffe bietet, liegen klar auf der Hand: sie ist aussergewöhnlich genau und eine Flammenzunge folgt auf jeden Schlag. Sie richtet dadurch zusätzlichen Schaden an. Sie ist ein effizienter Troll-Killer und hat sich schon oft bewährt.
+
+EIGENSCHAFTEN:
+
++1 Feuerschaden
+ETWO:  +3 Bonus
+Schaden:  1W10 + 3 (Hiebwaffe)
+Gewicht: 10
+Initiativefaktor: 5
+Fertigkeit: Hellebarde
+Typ:  2-händig
+Mindeststärke: 11
+Kann nicht verwendet werden von:
+ Druiden
+ Klerikern
+ Magiern
+ Dieben~
+@29 = ~Helm der Verteidungung Rüstungsklasse +1~
+@30 = ~Dieser Helm war ursprünglich als Geschenk gedacht. Es gab damals keine Krisen oder andere Gefahren, die lauerten. Nur den Wunsch, einem Freund ein gutes Geschenk zu machen. Es hätte auch ein Buch oder eine gute Flasche Wein sein können, aber Abenteurer denken bei der Wahl ihrer Geschenke an den praktischen Nutzen. Dieser Helm hat seit seiner Herstellung schon viele Kämpfe miterlebt, aber die einfache Tugend in seinem Inneren ist das, woran sich immer erinnert worden ist.
+
+EIGENSCHAFTEN:
+
++1 zur Rüstungsklasse
+
+Speziell: Schützt gegen kritische Treffer
+Gewicht: 3
+Kann nicht verwendet werden von:
+ Magiern
+ Barden
+ Dieben~
+@31 = ~Ring der Verteidigung~
+@32 = ~Dieser Ring war ursprünglich als Geschenk gedacht. Es gab damals keine Krisen oder andere Gefahren, die lauerten. Nur den Wunsch, einem Freund ein gutes Geschenk zu machen. Es hätte auch ein Buch oder eine gute Flasche Wein sein können, aber Abenteurer denken bei der Wahl ihrer Geschenke an den praktischen Nutzen. Dieser Ring hat seit seiner Herstellung schon viele Kämpfe miterlebt, aber die einfache Tugend in seinem Inneren ist das, woran sich immer erinnert worden ist.
+
+EIGENSCHAFTEN:
+
+Rüstungsklasse:  +1
+Rettungswürfe:  +1~
+@33 = ~Sraxsuths Teehaus~
+@34 = ~Bitterer Schwarztee~
+@35 = ~Klassischer Tee der Untoten~
+@36 = ~Amnischer grüner Tee~
+@37 = ~Kräutergebräu~
+@38 = ~Lieblingstee der Leichen~
+@39 = ~Blinkys Ecke~
+@10001 = ~Lord Leoncourts Schatztruhe.
+
+Heute traf ich in der Kupferkrone auf Durnkrag, einen Zwergenpaladin, der sich mit seiner Gruppe dort aufhielt. Sie waren auf der Suche nach einer Schatztruhe, die einem Lord Thaddeus Leoncourt aus Baldurs Tor gestohlen wurde. Ein Hehler namens Grudin könnte etwas wissen, aber sie haben Schwierigkeiten, ihn ausfindig zu machen. Vielleicht wissen andere Hehler, wo man ihn finden kann. Wenn ich ihn gefunden habe, soll ich zu Durnkrag zurückkehren.~
+@10002 = ~Lord Leoncourts Schatztruhe.
+
+Diese Nacht habe ich endlich Grudin aufspüren können. Unglücklicherweise tat dies auch eine andere Gruppe, die sich selbst die Schattenbande nennen. Sie töteten Grudin, während ich auftauchte, doch er konnte noch einen Kapitän Randall erwähnen, bevor er starb. Jetzt werde ich wieder zur Kupferkrone zurückkehren. Hoffentlich wird Durnkrag das genügen.~
+@10003 = ~Lord Leoncourts Schatztruhe.
+
+Aufgrund der aktuellen Neuigkeiten machten sich Durnkrag und seine Freunde, die sich selbst die Kerkerstöberer nennen, schnell zu den Hafenanlagen auf und boten mir an, mitzukommen.~
+@10004 = ~Lord Leoncourts Schatztruhe.
+
+Als ich schliesslich die Hafenanlagen erreichte, traf ich auf die Schattenbande und die Labyrinth-Tourer die sich in den Haaren lagen. Ich entschied mich für Durnkrag und die Schattenbande entschied sich, lieber zu fliehen. Jetzt müssen wir noch mit Kapitän Randall sprechen...~
+@10005 = ~Lord Leoncourts Schatztruhe.
+
+Als ich schliesslich die Hafenanlagen erreichte, traf ich auf die Schattenbande und die Labyrinth-Tourer die sich in den Haaren lagen. Ich entschied mich für Ganelon, dem Anführer der Schattenbande, und die Kerkerstöberer entschieden sich für die Flucht. Jetzt müssen wir noch mit Kapitän Randall sprechen...~
+@10006 =  ~Lord Leoncourts Schatztruhe.
+
+Kapitän Randall verlangte eine Gebühr von 2000 Goldstücken für die Überfahrt. Wenn ich bereit bin, zu gehen, muss ich meine Hälfte bezahlen: eintausend Goldstücke.~
+@10007 =  ~Lord Leoncourts Schatztruhe.
+
+Wir wachten auf dem kalten Kerkerboden auf. Offensichtlich betäubte uns Randall in der Absicht, uns als Sklaven an die örtlichen Schmuggler auszuliefern. Wir entschieden uns, uns aufzuteilen, um Lord Leoncourts Schatztruhe unde den Ausgang so schnell wie möglich zu finden.~
+@10008 =  ~Lord Leoncourts Schatztruhe.
+
+Eine seltsame Kreatur, halb Hase, halb Dämon, mit dem Namen Lepus, die auch noch eine Vorliebe für Hosen hatte, lauerte mit der Truhe in der Ritualkammer. Wir besiegten sie und Ganelon teleportierte uns nach Athkatla zurück. Anstatt eines Schatzes fanden wir nur ein paar goldene Hosen und Ganelon floh daraufhin.~
+@10009 =  ~Lord Leoncourts Schatztruhe.
+
+Eine seltsame Kreatur, halb Hase, halb Dämon, mit dem Namen Lepus, die auch noch eine Vorliebe für Hosen hatte, lauerte mit der Truhe in der Ritualkammer. Wir besiegten sie und Ganelon teleportierte uns nach Athkatla zurück. Anstatt eines Schatzes fanden wir nur ein paar goldene Hosen. Deswegen entschied ich mich, die Schattenbande anzugreifen.~
+@10010 =  ~Lord Leoncourts Schatztruhe.
+
+Eine seltsame Kreatur, halb Hase, halb Dämon, mit dem Namen Lepus, die auch noch eine Vorliebe für Hosen hatte, lauerte mit der Truhe in der Ritualkammer. Wir besiegten sie und Arudin teleportierte uns nach Athkatla zurück. Anstatt eines Schatzes fanden wir nur ein paar goldene Hosen. Deswegen entschied ich mich, die Kerkerstöberer anzugreifen.~
+@10011 =  ~Lord Leoncourts Schatztruhe.
+
+Eine seltsame Kreatur, halb Hase, halb Dämon, mit dem Namen Lepus, die auch noch eine Vorliebe für Hosen hatte, lauerte mit der Truhe in der Ritualkammer. Wir besiegten sie und Ganelon teleportierte uns nach Athkatla zurück. Lord Leoncourt erwartet uns bereits in der Kupferkrone, die Kerkerstöberer haben sich schon dorthin begeben.~
+@10012 =  ~Lord Leoncourts Schatztruhe.
+
+Lord Leoncourt war sehr erfeut darüber, dass er seine Lieblingshosen zurückbekommen hatte und wir bekamen unsere Belohnung: 10.000 Goldstücke, die wir gerecht untereinander aufteilten. Dieses Abenteuer ist endlich vorüber.~

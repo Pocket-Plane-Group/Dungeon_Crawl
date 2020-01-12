@@ -1,0 +1,33 @@
+IF
+AttackedBy([GOODCUTOFF],DEFAULT)
+Allegiance(Myself,NEUTRAL)
+THEN
+RESPONSE #100
+Enemy()
+ChangeAIScript("MAGE14M",OVERRIDE) 
+END
+
+IF
+Delay(8)
+NumTimesTalkedTo(0)
+Detect([PC])
+THEN
+RESPONSE #100
+DisplayStringHead(Myself,@0)
+END
+
+IF
+Detect([PC])
+THEN
+RESPONSE #10
+MoveToPoint([1185.1010])
+Face(6)
+RESPONSE #10
+MoveToPoint([1312.907])
+Face(10)
+RESPONSE #10
+MoveToPoint([1327.1039])
+Face(6)
+RESPONSE #70
+NoAction()
+END

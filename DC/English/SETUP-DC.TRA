@@ -1,0 +1,137 @@
+@0 = ~Dungeon Crawl~
+@1 = ~Arudin~
+@2 = ~Beatrice~
+@3 = ~Castor~
+@4 = ~Durnkrag~
+@5 = ~Khaggoth~
+@6 = ~Ganelon~
+@7 = ~Mac~
+@8 = ~Remus~
+@9 = ~Teagan~
+@10 = ~Grudin~
+@11 = ~Captain Randall~
+@12 = ~Lepus~
+@13 = ~Lord Thaddeus Leoncourt~
+@14 = ~Fren~
+@15 = ~Smuggler~
+@16 = ~Blinky~
+@17 = ~Sraxsuth~
+@18 = ~Quagis~
+@19 = ~Girdle of Ogre Power~
+@20 = ~Girdle of Ogre Power:
+This plain belt makes the wearer as strong as an ogre, but does not make him or her giant size. Many a cocky warrior has been surprised by a much smaller opponent with remarkable strength. More often than not a belt such as this is the reason.
+
+STATISTICS:
+
+Strength:  set to 18/00
+Weight:  2
+Not usable by: 
+ Thief
+ Mage~
+@21 = ~Bracers of Defense AC +2~
+@22 = ~Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm. Generally, the magic that is instilled in bracers is good only during combat, since most bracers help protect the wearer from injury, or improve chances to strike at an opponent. Exceptions do exist, though such specialized items are rare at best.    
+
+STATISTICS:
+
++2 bonus to AC
+
+Weight: 2~
+@23 = ~Gauntlets of Heavy Strike~
+@24 = ~Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.
+
+STATISTICS:
+  Damage:  +2 bonus
+  Weight:  2~
+@25 = ~Robe of Arcane Might~
+@26 = ~Created by the ancient mages of Netheril, such robes are rare and hard to find. This particular robe gives its wielder an immunity to silencing enchantments, and improves their spellcasting ability.
+
+STATISTICS:
+
+Equipped Abilities:
+Vocalize
+Improves casting speed by 3
+Weight:  3
+Only usable by:
+Mage (single, dual, & multi-class)~
+@27 = ~Halberd of Searing +3~
+@28 = ~The benefits inherent in this weapon are plain to see; it is exceptionally accurate, and a lick of flame follows every blow, searing the target in addition to the normal damage received. It is an efficient troll-killer, though it has not yet been heralded as such in song or legend.
+
+STATISTICS:
+
+Combat Abilities: 1 extra point of fire damage
+THACO:  +3 bonus
+Damage:  1D10 + 3
+Damage type:  slashing
+Weight: 10
+Speed Factor: 5
+Proficiency Type: Halberd
+Type:  2-handed
+Requires: 11 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage
+ Thief~
+@29 = ~Helmet of Defense AC +1~
+@30 = ~Prized for its noble origin as much as for its benefits to the wearer, this helm was originally intended to be a simple gift. There was no great crisis at hand, nor dangerous evil to be overthrown; just a wish for a friend to give a gift to another. It could just have easily been a good book or bottle of wine, but adventurers are eminently more practical in their gift giving. The helm has seen many great battles since its creation, but the simple virtue at its core is what has always been remembered.
+
+STATISTICS:
+
++1 bonus to AC
+
+Special:  Protects Against Critical Hits
+Weight: 3
+Not Usable By:
+Mage
+Bard
+Thief~
+@31 = ~Ring of Defense~
+@32 = ~Prized for its noble origin as much as for its benefits to the wearer, this ring was originally intended to be a simple gift. There was no great crisis at hand, nor dangerous evil to be overthrown; just a wish for a friend to give a gift to another. It could just have easily been a good book or bottle of wine, but adventurers are eminently more practical in their gift giving. The ring has seen many great battles since its creation, but the simple virtue at its core is what has always been remembered.
+
+STATISTICS:
+
+Armor Class:  +1 bonus
+Saving Throws:  +1 bonus~
+@33 = ~Sraxsuth' Tea House~
+@34 = ~Bitter Black Tea~
+@35 = ~Undead Classic Tea~
+@36 = ~Amnish Regal Tea~
+@37 = ~Herbal Brew~
+@38 = ~Lich's Choice Tea~
+@39 = ~Blinky's Corner~
+@10001 = ~Lord Leoncourt's treasure chest.
+
+Today I met Durnkrag, a dwarven paladin, and his band of fellow adventurers in the Copper Coronet. They are looking for a treasure chest that was stolen from Lord Thaddeus Leoncourt of Baldur's Gate. A fence named Grudin may know something, but they are having difficulties locating him. Perhaps other fences will know where to find him. Once I locate him, I should return to Durnkrag.~
+@10002 = ~Lord Leoncourt's treasure chest.
+
+This night I have finally encountered Grudin. Unfortunately, so did another band, who calls themselves the Shadow Pack. They killed Grudin as I approached, but the fellow mentioned someone named Captain Randall, before he died. Now I should return to the Copper Coronet. Hopefully, this will be enough for Durnkrag.~
+@10003 = ~Lord Leoncourt's treasure chest.
+
+Upon hearing the news, Durnkrag and his friends, who call themselves the Dungeon Crawlers, headed for the docks immediately, and bade me to follow.~
+@10004 = ~Lord Leoncourt's treasure chest.
+
+Upon arriving to the docks, I found the Shadow Pack and the Dungeon Crawlers locked in mortal combat. I chose to assist Durnkrag, and the Shadow Pack decided to flee. Now to speak with Captain Randall...~
+@10005 = ~Lord Leoncourt's treasure chest.
+
+Upon arriving to the docks, I found the Shadow Pack and the Dungeon Crawlers locked in mortal combat. I chose to assist Ganelon, the leader of the Shadow Pack, and the Dungeon Crawlers decided to flee. Now to speak with Captain Randall...~
+@10006 =  ~Lord Leoncourt's treasure chest.
+
+Captain Randall asked for a fee of two thousand gold for the passage. Should I be willing to go, I must pay my half: one thousand gold.~
+@10007 =  ~Lord Leoncourt's treasure chest.
+
+We woke up on the cold dungeon floor. Apparently, Randall drugged us, with the intent to deliver us as slaves for the local smugglers. We decided to split up, to find Lord Leoncourt's chest and the exit as soon as possible.~
+@10008 =  ~Lord Leoncourt's treasure chest.
+
+A strange creature, half-rabbit, half-demon by the name of Lepus, with an uncanny liking for pants, was lurking with the chest in the ritual chamber. We defeated it, and Ganelon teleported us back to Athkatla. However, instead of treasure, we discovered a pair of Golden Pantaloons, and Ganelon fled in disgust.~
+@10009 =  ~Lord Leoncourt's treasure chest.
+
+A strange creature, half-rabbit, half-demon by the name of Lepus, with an uncanny liking for pants, was lurking with the chest in the ritual chamber. We defeated it, and Ganelon teleported us back to Athkatla. However, instead of treasure, we discovered a pair of Golden Pantaloons, so I decided to attack the Shadow Pack.~
+@10010 =  ~Lord Leoncourt's treasure chest.
+
+A strange creature, half-rabbit, half-demon by the name of Lepus, with an uncanny liking for pants, was lurking with the chest in the ritual chamber. We defeated it, and Arudin teleported us back to Athkatla. However, instead of treasure, we discovered a pair of Golden Pantaloons, so I decided to attack the Dungeon Crawlers.~
+@10011 =  ~Lord Leoncourt's treasure chest.
+
+A strange creature, half-rabbit, half-demon by the name of Lepus, with an uncanny liking for pants, was lurking with the chest in the ritual chamber. We defeated it, and Arudin teleported us back to Athkatla. Lord Leoncourt is awaiting for us all in the Copper Coronet, and the Dungeon Crawlers have already headed there.~
+@10012 =  ~Lord Leoncourt's treasure chest.
+
+Lord Leoncourt was very pleased to get his favourite pants back, and we received our reward: ten thousand gold, to be split equally between me and Durnkrag's band. This adventure is finally over.~

@@ -1,0 +1,96 @@
+IF
+Global("O#DCQuest","GLOBAL",13)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+InMyArea(Player1)
+THEN
+RESPONSE #100
+StartDialogueNoSet(Player1)
+END
+
+IF
+HPLT("O#Lepus",10)
+Global("O#DCQuest","GLOBAL",14)
+Global("O#DCQuestGood","GLOBAL",2)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+InMyArea(Player1)
+THEN
+RESPONSE #100
+ClearAllActions()
+StartCutSceneMode()
+StartCutScene("O#DCCut6")
+END
+
+IF
+HPLT("O#Lepus",10)
+Global("O#DCQuest","GLOBAL",14)
+Global("O#DCQuestEvil","GLOBAL",2)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+InMyArea(Player1)
+THEN
+RESPONSE #100
+ClearAllActions()
+StartCutSceneMode()
+StartCutScene("O#DCCut7")
+END
+
+IF
+GlobalLT("O#DCQuest","GLOBAL",15)
+See(NearestEnemyOf(Myself))
+Global("O#RemoveMagic","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("O#RemoveMagic","LOCALS",1)
+SetGlobalTimer("O#LepusRemoveMagic","GLOBAL",36)
+ForceSpell(LastSeenBy(Myself),WIZARD_DISPEL_MAGIC)
+END
+
+IF
+GlobalLT("O#DCQuest","GLOBAL",15)
+See(NearestEnemyOf(Myself))
+Global("O#Sunfire","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("O#Sunfire","LOCALS",1)
+SetGlobalTimer("O#LepusSunfire","GLOBAL",18)
+END
+
+IF
+GlobalLT("O#DCQuest","GLOBAL",15)
+See(NearestEnemyOf(Myself))
+GlobalTimerExpired("O#LepusSunfire","GLOBAL")
+THEN
+RESPONSE #100
+ForceSpell(LastSeenBy(Myself),WIZARD_SUN_FIRE)
+SetGlobalTimer("O#LepusSunfire","GLOBAL",18)
+END
+
+IF
+GlobalLT("O#DCQuest","GLOBAL",15)
+See(NearestEnemyOf(Myself))
+GlobalTimerExpired("O#LepusRemoveMagic","GLOBAL")
+THEN
+RESPONSE #100
+ForceSpell(LastSeenBy(Myself),WIZARD_DISPEL_MAGIC)
+SetGlobalTimer("O#LepusRemoveMagic","GLOBAL",36)
+END
+
+IF
+GlobalLT("O#DCQuest","GLOBAL",15)
+Allegiance(Myself,ENEMY)
+THEN
+RESPONSE #100
+MoveToObject(NearestEnemyOf(Myself))
+AttackOneRound(NearestEnemyOf(Myself))
+END
+
+IF
+GlobalLT("O#DCQuest","GLOBAL",15)
+AttackedBy([GOODCUTOFF],DEFAULT)
+Allegiance(Myself,NEUTRAL)
+THEN
+RESPONSE #100
+Enemy()
+END

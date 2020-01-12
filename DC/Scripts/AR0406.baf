@@ -1,0 +1,24 @@
+IF
+Global("O#DCQuest","GLOBAL",0)
+THEN
+RESPONSE #100
+CreateCreature("O#Arudin",[915.1452],0)
+CreateCreature("O#Castor",[953.1448],0)
+CreateCreature("O#Durn",[876.1457],0)
+CreateCreature("O#Khagg",[939.1444],0)
+SetGlobal("O#DCQuest","GLOBAL",1)
+END
+
+IF
+Global("O#DCQuest","GLOBAL",19)
+Global("O#DCRewardTime","GLOBAL",1)
+THEN
+RESPONSE #100
+CreateCreature("O#Arudin",[915.1452],0)
+CreateCreature("O#Bea",[969.1472],0)
+CreateCreature("O#Castor",[953.1448],0)
+CreateCreature("O#Durn",[876.1457],0)
+CreateCreature("O#Khagg",[939.1444],0)
+CreateCreature("O#Thadd",[928.1500],3)
+SetGlobal("O#DCQuest","GLOBAL",20)
+END

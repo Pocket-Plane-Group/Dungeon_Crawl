@@ -1,0 +1,42 @@
+@20 = ~Ogerkraftgürtel:
+Dieser unscheinbare Gürtel macht dessen Träger so stark wie einen Oger, verändert dessen Grösse jedoch nicht. Viele grosse Krieger wurden schon von sehr viel kleineren Gegnern mit beeindruckender Stärke überrascht. Oft war solch ein Gürtel der Grund dafür.
+
+EIGENSCHAFTEN:
+
+Stärke auf 18/00 gesetzt
+
+Gewicht:  2
+~
+@26 = ~Hergestellt von den berühmten Magiern aus Netheril, sind solche Roben selten und schwer zu finden. Diese spezielle Robe verleiht ihrem Träger Immunität gegen Verstummungszauber und erhöht die Geschwindigkeit beim Zaubern.
+
+EIGENSCHAFTEN:
+
+Immun gegen Verstummung
+Erhöht die Geschwindigkeit beim Zaubern um 3
+
+Gewicht:  3
+~
+@28 = ~Die Vorteile, die diese Waffe bietet, liegen klar auf der Hand: sie ist aussergewöhnlich genau und eine Flammenzunge folgt auf jeden Schlag. Sie richtet dadurch zusätzlichen Schaden an. Sie ist ein effizienter Troll-Killer und hat sich schon oft bewährt.
+
+EIGENSCHAFTEN:
+
+ETW0-Bonus: -3
+Schaden:
+ 1W10 +3 (Stich)
+Schadensbonus:
+ +1 (Feuer)
+Initiativefaktor: 5
+Fertigkeit: Hellebarde
+Typ: 2-händig
+Mindeststärke: 11
+
+Gewicht: 10~
+@30 = ~Dieser Helm war ursprünglich als Geschenk gedacht. Es gab damals keine Krisen oder andere Gefahren, die lauerten. Nur den Wunsch, einem Freund ein gutes Geschenk zu machen. Es hätte auch ein Buch oder eine gute Flasche Wein sein können, aber Abenteurer denken bei der Wahl ihrer Geschenke an den praktischen Nutzen. Dieser Helm hat seit seiner Herstellung schon viele Kämpfe miterlebt, aber die einfache Tugend in seinem Inneren ist das, woran sich immer erinnert worden ist.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: -1
+Schützt vor kritischen Treffern
+
+Gewicht: 3
+~

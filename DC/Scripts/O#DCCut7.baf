@@ -1,0 +1,13 @@
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+SetGlobal("O#DCQuest","GLOBAL",15)
+CreateCreature("O#Ganel",[346.530],0)
+CreateCreature("O#Mac",[315.515],0)
+CreateCreature("O#Remus",[330.525],0)
+CreateCreature("O#Teagan",[355.525],0)
+ActionOverride("O#Lepus",MoveToPoint([350.535]))
+ActionOverride("O#Lepus",StartDialogueNoSet(Player1))
+END

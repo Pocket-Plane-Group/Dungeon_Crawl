@@ -1,0 +1,212 @@
+BACKUP ~DC\Backup~
+AUTHOR ~http://forums.pocketplane.net~
+VERSION ~v11~
+
+README ~DC/%LANGUAGE%/Readme-DC.txt~ ~DC/Readme-DC.txt~ 
+
+ALWAYS
+  ACTION_IF NOT VARIABLE_IS_SET bg2_chapter BEGIN
+    ACTION_IF GAME_IS ~eet~ BEGIN
+      OUTER_SET bg2_chapter = 12
+    END ELSE BEGIN
+      OUTER_SET bg2_chapter = 0
+    END
+    OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+      OUTER_SET bg2_chapter = bg2_chapter + 1
+      OUTER_SPRINT name_source ~bg2_chapter_%i%~
+      OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+    END
+  END
+
+
+  // Only setup-Mod.tra needs to be reloaded
+  ACTION_DEFINE_ARRAY O#reload BEGIN Setup-DC END
+
+  // There is no "language" folder so the root of all languages in %MOD_FOLDER%
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charsets = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%~
+      reload_array = O#reload
+  END
+END
+
+AUTO_TRA ~DC/%s~
+
+LANGUAGE ~English~ ~English~ ~DC/English/Setup-DC.tra~
+LANGUAGE ~Russian~ ~Russian~ ~DC/Russian/Setup-DC.tra~
+LANGUAGE ~German (Translated by Gerri)~ ~German~ ~DC/German/Setup-DC.tra~
+LANGUAGE ~Italian (Translated by Ilot)~ ~Italian~ ~DC/Italian/Setup-DC.tra~
+LANGUAGE ~Polish (Translated by Aristo)~ ~Polish~ ~DC/Polish/Setup-DC.tra~
+LANGUAGE ~Chinese (Translated by Merzbau)~ ~Schinese~ ~DC/Schinese/Setup-DC.tra~
+
+BEGIN @0
+
+COPY ~DC/Areas~ ~override~
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+  COPY ~DC/pvrz~ ~override~
+END ELSE BEGIN
+  COPY ~DC/tis_v1~ ~override~
+END
+
+ACTION_IF GAME_IS ~BG2EE eet~ BEGIN
+LOAD_TRA ~DC/%LANGUAGE%/Setup-DC-EE.tra~
+ADD_JOURNAL @10001 @10002 @10003 @10004 @10005 @10006 @10007 @10008 @10009 @10010 @10011 @10012
+COPY ~DC/Areas/ARO#01EE.MOS~ ~override/ARO#01.MOS~
+COPY ~DC/Areas/ARO#02EE.MOS~ ~override/ARO#02.MOS~
+COPY ~DC/Areas/ARO#03EE.MOS~ ~override/ARO#03.MOS~
+COPY ~DC/Areas/ARO#04EE.MOS~ ~override/ARO#04.MOS~
+END
+
+COPY ~DC/Characters/O#Arudin.cre~ ~override/O#Arudin.cre~
+SAY NAME1 @1
+SAY NAME2 @1
+
+COPY ~DC/Characters/O#Bea.cre~ ~override/O#Bea.cre~
+SAY NAME1 @2
+SAY NAME2 @2
+
+COPY ~DC/Characters/O#Castor.cre~ ~override/O#Castor.cre~
+SAY NAME1 @3
+SAY NAME2 @3
+
+COPY ~DC/Characters/O#Durn.cre~ ~override/O#Durn.cre~
+SAY NAME1 @4
+SAY NAME2 @4
+
+COPY ~DC/Characters/O#Khagg.cre~ ~override/O#Khagg.cre~
+SAY NAME1 @5
+SAY NAME2 @5
+
+COPY ~DC/Characters/O#Ganel.cre~ ~override/O#Ganel.cre~
+SAY NAME1 @6
+SAY NAME2 @6
+
+COPY ~DC/Characters/O#Mac.cre~ ~override/O#Mac.cre~
+SAY NAME1 @7
+SAY NAME2 @7
+
+COPY ~DC/Characters/O#Remus.cre~ ~override/O#Remus.cre~
+SAY NAME1 @8
+SAY NAME2 @8
+
+COPY ~DC/Characters/O#Teagan.cre~ ~override/O#Teagan.cre~
+SAY NAME1 @9
+SAY NAME2 @9
+
+COPY ~DC/Characters/O#Grudin.cre~ ~override/O#Grudin.cre~
+SAY NAME1 @10
+SAY NAME2 @10
+
+COPY ~DC/Characters/O#Rand.cre~ ~override/O#Rand.cre~
+SAY NAME1 @11
+SAY NAME2 @11
+
+COPY ~DC/Characters/O#Lepus.cre~ ~override/O#Lepus.cre~
+SAY NAME1 @12
+SAY NAME2 @12
+
+COPY ~DC/Characters/O#Thadd.cre~ ~override/O#Thadd.cre~
+SAY NAME1 @13
+SAY NAME2 @13
+
+COPY ~DC/Characters/O#Smug.cre~ ~override/O#Smug.cre~
+SAY NAME1 @14
+SAY NAME2 @14
+
+COPY ~DC/Characters/O#Thug.cre~ ~override/O#Thug.cre~
+SAY NAME1 @15
+SAY NAME2 @15
+
+COPY ~DC/Characters/O#Blinky.cre~ ~override/O#Blinky.cre~
+SAY NAME1 @16
+SAY NAME2 @16
+
+COPY ~DC/Characters/O#Srax.cre~ ~override/O#Srax.cre~
+SAY NAME1 @17
+SAY NAME2 @17
+
+COPY ~DC/Characters/O#Quagis.cre~ ~override/O#Quagis.cre~
+SAY NAME1 @18
+SAY NAME2 @18
+
+COPY ~DC/Items/O#DCBelt.itm~ ~override/O#DCBelt.itm~
+SAY NAME1 @19
+SAY NAME2 @19
+SAY DESC @20
+
+COPY ~DC/Items/O#DCBra1.itm~ ~override/O#DCBra1.itm~
+SAY NAME1 @21
+SAY NAME2 @21
+SAY DESC @22
+
+COPY ~DC/Items/O#DCBra2.itm~ ~override/O#DCBra2.itm~
+SAY NAME1 @23
+SAY NAME2 @23
+SAY DESC @24
+
+COPY ~DC/Items/O#DCClck.itm~ ~override/O#DCClck.itm~
+SAY NAME1 @25
+SAY NAME2 @25
+SAY DESC @26
+
+COPY ~DC/Items/O#DCHalb.itm~ ~override/O#DCHalb.itm~
+SAY NAME1 @27
+SAY NAME2 @27
+SAY DESC @28
+
+COPY ~DC/Items/O#DCHelm.itm~ ~override/O#DCHelm.itm~
+SAY NAME1 @29
+SAY NAME2 @29
+SAY DESC @30
+
+COPY ~DC/Items/O#DCRing.itm~ ~override/O#DCRing.itm~
+SAY NAME1 @31
+SAY NAME2 @31
+SAY DESC @32
+
+APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~
+UNLESS ~CD_STATE_NOTVALID~
+
+COMPILE ~DC/Dialogue/O#Quest.d~
+
+	~DC/Scripts/ARO#01.baf~
+	~DC/Scripts/ARO#02.baf~
+	~DC/Scripts/ARO#04.baf~
+	~DC/Scripts/O#DCGr.baf~
+	~DC/Scripts/O#SPGr.baf~
+	~DC/Scripts/O#Durn.baf~
+	~DC/Scripts/O#Ganel.baf~
+	~DC/Scripts/O#Lepus.baf~
+	~DC/Scripts/O#Quagis.baf~
+	~DC/Scripts/O#Rand.baf~
+	~DC/Scripts/O#Smug.baf~
+	~DC/Scripts/O#SmugG.baf~
+	~DC/Scripts/O#Thadd.baf~
+	~DC/Scripts/O#DCCut1.baf~
+	~DC/Scripts/O#DCCut2.baf~
+	~DC/Scripts/O#DCCut3.baf~
+	~DC/Scripts/O#DCCut4.baf~
+	~DC/Scripts/O#DCCut5.baf~
+	~DC/Scripts/O#DCCut6.baf~
+	~DC/Scripts/O#DCCut7.baf~
+	~DC/Scripts/O#DCCut8.baf~
+	~DC/Scripts/O#DCCut9.baf~
+
+EXTEND_TOP ~AR0406.bcs~ ~DC/Scripts/AR0406.baf~
+EXTEND_TOP ~AR0400.bcs~ ~DC/Scripts/AR0400.baf~
+EXTEND_TOP ~AR0300.bcs~ ~DC/Scripts/AR0300.baf~
+
+COPY ~DC/Stores/o#dctav.sto~ ~override/o#dctav.sto~
+SAY 0xc @33
+SAY 0xa4 @34
+SAY 0xb8 @35
+SAY 0xcc @36
+SAY 0xe0 @37
+SAY 0xf4 @38
+
+COPY ~DC/Stores/o#dcsto.sto~ ~override/o#dcsto.sto~
+SAY 0xc @39
+
+LAF HANDLE_AUDIO END
