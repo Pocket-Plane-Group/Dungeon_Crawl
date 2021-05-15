@@ -163,6 +163,8 @@ Italian Translation: Ilot
 
 Polish Translation: Aristo 
 
+French Translation: deratiseur
+
 WoRm's custom areas and animations are available at The Black Wyrm's Forums:
 http://forums.blackwyrmlair.net/index.php?showforum=83
 
