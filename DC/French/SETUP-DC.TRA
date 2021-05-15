@@ -1,0 +1,139 @@
+@0 = ~Dungeon Crawl~
+@1 = ~Arudin~
+@2 = ~Béatrice~
+@3 = ~Castor~
+@4 = ~Durnkrag~
+@5 = ~Khaggoth~
+@6 = ~Ganelon~
+@7 = ~Mac~
+@8 = ~Rémus~
+@9 = ~Téagan~
+@10 = ~Grudin~
+@11 = ~Capitaine Randall~
+@12 = ~Lepus~
+@13 = ~Seigneur Thaddeus Léoncourt~
+@14 = ~Fren~
+@15 = ~Trafiquant~
+@16 = ~Clignon~
+@17 = ~Sraxsuth~
+@18 = ~Quagis~
+@19 = ~Ceinture de force d'ogre~
+@20 = ~Ceinture de force d'ogre:
+Cette simple ceinture rend le porteur aussi fort qu'un ogre, mais ne lui donne pas la taille d'un géant. Nombreux sont les guerriers arrogants qui ont été surpris par un adversaire beaucoup plus petit et d'une force remarquable. La plupart du temps, c'est grâce à une telle ceinture.
+
+PARAMETRES :
+
+Force : passe à 18/00
+Poids : 2
+Non utilisable par : 
+Voleur
+Mage~
+@21 = ~Bracelets de Défense CA +2~
+@22 = ~Les bracelets sont d'épaisses bandes de métal ou de cuir qui sont attachées, ceinturées ou attachées à l'avant-bras d'un personnage. En général, la magie qui est instillée dans les bracelets n'est bonne que pendant le combat, car la plupart des bracelets aident à protéger celui qui les porte des blessures ou à améliorer ses chances de frapper un adversaire. Il existe des exceptions, bien que ces objets spécialisés soient au mieux rares.
+
+PARAMETRES :
+
+CA : +2
+Poids : 2~
+@23 = ~Gantelets de Lourde Frappe~
+@24 = ~Les gants sont des gants blindés. Ils peuvent être faits de cuir, de plaques de métal ou de cotte de mailles. Chaque armure est censée comporter des gants d'un type approprié. Les gants magiques ont tendance à être plus fins, plus légers et plus faciles à porter que les variétés normales.
+
+PARAMETRES :
+
+Dégâts : +2
+Poids : 2~
+@25 = ~Robe de Puissance Arcanique~
+@26 = ~Créées par les anciens mages de Netheril, ces robes sont rares et difficiles à trouver. Cette robe particulière confère à son porteur une immunité contre les enchantements amuïssant et améliore sa capacité à lancer des sorts.
+
+PARAMETRES :
+
+Capacités d'équipement :
+Vocaliser
+Temps d'incantation réduit de 3
+Poids : 3
+Seulement utilisable par :
+Mage (simple, jumelé, & multi-classé)~
+@27 = ~Hallebarde Fulgurante +3~
+@28 = ~Les avantages inhérents à cette arme sont évidents : elle est exceptionnellement précise et une bouffée de feu suit chaque coup, brûlant la cible en plus des dommages normaux reçus. C'est une tueuse de trolls efficace, bien qu'elle n'ait pas encore été annoncée comme telle dans une chanson ou une légende.
+
+PARAMETRES :
+
+Damage: 1D10+3, +1 de feu
+TACO : +3
+Type de dégât : tranchant
+Type de compétence : Hallebarde
+Facteur de vitesse : 5
+Type : à deux mains
+Poids : 10
+Force nécessaire : 11
+Non utilisable par :
+ Druide
+ Mage
+ Clerc
+ Voleur~
+@29 = ~Casque de Défense CA +1~
+@30 = ~Prisé pour sa noble origine autant que pour les avantages qu'il procure à son porteur, ce casque était à l'origine destiné à n'être qu'un simple cadeau. Il n'y avait pas de grande crise, ni de mal dangereux à renverser ; juste le souhait d'un ami d'offrir un cadeau à un autre. Cela aurait pu être un bon livre ou une bonne bouteille de vin, mais les aventuriers sont éminemment plus pratiques dans leur façon d'offrir un cadeau. Le casque a connu de nombreuses grandes batailles depuis sa création, mais c'est la simple vertu à sa base qui a toujours été retenue.
+
+PARAMETRES :
+
+Bonus à la Classe d'Armure : +1
+Spécial : protège contre les coups critiques
+
+Poids : 3
+Non utilisable par :
+ Mage
+ Clerc
+ Voleur~
+@31 = ~Anneau de Défense~
+@32 = ~Prisé pour sa noble origine autant que pour les avantages qu'il procure à son porteur, cet anneau était à l'origine destiné à n'être qu'un simple cadeau. Il n'y avait pas de grande crise, ni de mal dangereux à renverser ; juste le souhait d'un ami d'offrir un cadeau à un autre. Cela aurait pu être un bon livre ou une bonne bouteille de vin, mais les aventuriers sont éminemment plus pratiques dans leur façon d'offrir un cadeau. L'anneau a connu de nombreuses grandes batailles depuis sa création, mais c'est la simple vertu à sa base qui a toujours été retenue.
+
+PARAMETRES :
+
+Classe d'Armure : +1
+Jets de sauvegarde : +1~
+@33 = ~Maison de thé de Sraxsuth~
+@34 = ~Thé noir amer~
+@35 = ~Thé classique pour morts-vivants~
+@36 = ~Thé royal Amnien~
+@37 = ~Infusion aux herbes~
+@38 = ~Thé Le Choix de la Liche~
+@39 = ~Le coin de Clignon~
+@10001 = ~Le coffre au trésor du Seigneur Léoncourt.
+
+Aujourd'hui, j'ai rencontré Durnkrag, un paladin nain, et sa bande de compagnons d'aventure dans la Couronne de cuivre. Ils sont à la recherche d'un coffre au trésor qui a été volé au Seigneur Thaddeus Léoncourt de la Porte de Baldur. Un receleur nommé Grudin sait peut-être quelque chose, mais ils ont du mal à le localiser. Peut-être que d'autres receleurs sauront où le trouver. Une fois que je l'aurai localisé, je devrais retourner voir Durnkrag.~
+@10002 = ~Le coffre au trésor du Seigneur Léoncourt.
+
+Cette nuit, j'ai enfin rencontré Grudin. Malheureusement, un autre groupe, qui se fait appeler la Meute de l'Ombre, l'a aussi trouvé. Ils ont tué Grudin à mon approche, mais le gars a mentionné un certain capitaine Randall avant de mourir. Maintenant, je dois retourner à la Couronne de cuivre. J'espère que cela suffira pour Durnkrag.~
+@10003 = ~Le coffre au trésor du Seigneur Léoncourt.
+
+En apprenant la nouvelle, Durnkrag et ses amis, qui se font appeler les Ratisseurs de Donjons, se sont immédiatement dirigés vers les docks et m'ont demandé de les suivre.~
+@10004 = ~Le coffre au trésor du Seigneur Léoncourt.
+
+En arrivant sur les quais, j'ai trouvé la Meute de L'Ombre et les Ratisseurs de Donjons engagés dans un combat mortel. J'ai choisi d'aider Durnkrag, et la Meute de l'ombre a décidé de s'enfuir. Maintenant, nous devons parler avec le Capitaine Randall...~
+@10005 = ~Le coffre au trésor du Seigneur Léoncourt.
+
+En arrivant sur les docks, j'ai trouvé la Meute de l'Ombre et les Ratisseurs de Donjons engagés dans un combat mortel. J'ai choisi d'aider Ganelon, le chef de la Meute de l'Ombre, et les Ratisseurs de Donjons ont décidé de s'enfuir.  Maintenant, nous devons parler avec le Capitaine Randall...~
+@10006 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Le capitaine Randall a demandé une rémunération de deux mille pièces d'or pour le passage. Si je suis prêt à y aller, je dois payer ma moitié : mille pièces d'or.~
+~Le coffre au trésor du Seigneur Léoncourt.
+
+Le capitaine Randall a demandé une rémunération de deux mille pièces d'or pour le passage. Si je suis prête à y aller, je dois payer ma moitié : mille pièces d'or.~
+@10007 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Nous nous sommes réveillés sur le sol froid du donjon. Apparemment, Randall nous a drogués, avec l'intention de nous livrer comme esclaves pour les contrebandiers locaux. Nous avons décidé de nous séparer, pour trouver le coffre du Seigneur Léoncourt et la sortie le plus vite possible.~
+@10008 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Une créature bizarre, mi-lapin, mi-démon du nom de Lepus, avec un étrange penchant pour les pantalons, se cachait avec le coffre dans la chambre rituelle. Nous l'avons vaincue et Ganelon nous a téléportés à Athkatla. Cependant, au lieu d'un trésor, nous avons découvert un Pantalon doré, et Ganelon s'est enfui, écœuré.~
+@10009 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Une créature bizarre, mi-lapin, mi-démon du nom de Lepus, avec un étrange penchant pour les pantalons, se cachait avec le coffre dans la chambre rituelle. Nous l'avons vaincue et Ganelon nous a téléportés à Athkatla. Cependant, au lieu d'un trésor, nous avons découvert un Pantalon doré, j'ai donc décidé d'attaquer la Meute de l'Ombre.~
+@10010 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Une créature bizarre, mi-lapin, mi-démon du nom de Lepus, avec un étrange penchant pour les pantalons, se cachait avec le coffre dans la chambre rituelle. Nous l'avons vaincue et Arudin nous a téléportés à Athkatla. Cependant, au lieu d'un trésor, nous avons découvert un Pantalon doré, j'ai donc décidé d'attaquer les Ratisseurs de donjon.~
+@10011 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Une créature bizarre, mi-lapin, mi-démon du nom de Lepus, avec un étrange penchant pour les pantalons, se cachait avec le coffre dans la chambre rituelle. Nous l'avons vaincue et Arudin nous a téléportés à Athkatla. Le seigneur Léoncourt nous attend tous dans la couronne de cuivre, et les Ratisseurs de Donjons s'y sont déjà rendus.~
+@10012 =  ~Le coffre au trésor du Seigneur Léoncourt.
+
+Le Seigneur Léoncourt était très heureux de retrouver son pantalon préféré, et nous avons reçu notre récompense : dix mille pièces d'or, à partager à parts égales entre moi et la bande de Durnkrag. Cette aventure est enfin terminée.~

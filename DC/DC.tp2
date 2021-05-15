@@ -1,6 +1,6 @@
 BACKUP ~DC\Backup~
 AUTHOR ~http://forums.pocketplane.net~
-VERSION ~v12~
+VERSION ~v13~
 
 README ~DC/%LANGUAGE%/Readme-DC.txt~ ~DC/Readme-DC.txt~ 
 
@@ -40,6 +40,7 @@ LANGUAGE ~German (Translated by Gerri)~ ~German~ ~DC/German/Setup-DC.tra~
 LANGUAGE ~Italian (Translated by Ilot)~ ~Italian~ ~DC/Italian/Setup-DC.tra~
 LANGUAGE ~Polish (Translated by Aristo)~ ~Polish~ ~DC/Polish/Setup-DC.tra~
 LANGUAGE ~Chinese (Translated by Merzbau)~ ~Schinese~ ~DC/Schinese/Setup-DC.tra~
+LANGUAGE ~French (Translated by deratiseur)~ ~French~ ~DC/French/Setup-DC.tra~
 
 BEGIN @0
 
