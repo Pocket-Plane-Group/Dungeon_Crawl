@@ -186,6 +186,10 @@ winLAME					http://winlame.sourceforge.net
 5. Version History
 -------------------
 
+Version 13.1
+-revised Polish translation, by Aristo
+-added install order syntax to dc.ini and changed name to shorten package name of automatically created mod packages (created by Automated mod Packager from ALIEN)
+
 Version 13
 -French version added, by deratiseur
 
