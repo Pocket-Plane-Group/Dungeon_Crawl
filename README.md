@@ -3,7 +3,7 @@ A Quest Mod for Baldur's Gate II (BGII, BGT, BGII:EE, EET)!
 
 Dungeon Crawl MOD for Baldur's Gate II is an add-on for the game Baldur's Gate II, with or without the Throne of Bhaal expansion pack. It is compatible with BGII, BGT, BGII:EE, and EET.
 
-It is based on the Dungeon Crawl, Inc., a popular webcomic, available at http://dungeoncrawlinc.com, and written in cooperation with its author,Nathan Sheaffer aka Kayless. The adventure starts in the Copper Coronet.
+It is based on the Dungeon Crawl, Inc., a popular webcomic, and written in cooperation with its author, Nathan Sheaffer aka Kayless. The adventure starts in the Copper Coronet.
 
 Note: For downloading the current version from GitHub, make sure you go to the releases page and download the [latest release](https://github.com/Pocket-Plane-Group/Dungeon_Crawl/releases) of this mod!
 
